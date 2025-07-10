@@ -83,30 +83,57 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 CREATED:20250527T031906Z
-LAST-MODIFIED:20250527T031906Z
-DTSTAMP:20250527T031906Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:9c8995e8-5c5c-4090-8b73-85c7648fa93e
-SUMMARY:ホストセッション予定 - 未定
-ATTACH:
+SUMMARY:Matzが語るAIコーディング📡📼 - まつもと ゆきひ
+ ろ(一般財団法人Rubyアソシエーション　理事長 特定非営
+ 利活動法人軽量Rubyフォーラム　理事長 OSS-Vision株式会社
+ 　専務取締役CTO 株式会社ネットワーク応用通信研究所
+ 　フェロー その他　技術顧問先多数)
 CATEGORIES:大展示場1/1F
+CATEGORIES:📡📼ストリーミング＆アーカイブ
 DTSTART;TZID=Asia/Tokyo:20250730T103000
 DTEND;TZID=Asia/Tokyo:20250730T120000
-DESCRIPTION:
-LOCATION:大展示場1/1F(〒690-0826 島根県松江市学園南1丁目2-1
-  くにびきメッセ)
-URL:
-SEQUENCE:0
+DESCRIPTION:# 概要\n\nRubyの生みの親として知られるMatz（ま
+ つもとゆきひろ）は、日々原稿を書いたり、コードを書
+ いたりと、さまざまな創作活動に取り組んでいます。\n
+ 最近では、そうした日常の中で生成AIを活用しながら、
+ 原稿執筆やコーディングをより快適に進める工夫をして
+ います。\nこのセッションでは、Matz がどのようなAIを、
+ どのように使っているのか、そのリアルな使い方や感じ
+ ていることを実体験ベースで紹介します。\n未来がどう
+ なるかは誰にもわかりませんが、AIとの付き合い方につ
+ いてヒントが見つかる時間になるかもしれません。\n\n# 
+ プロフィール\n\nYukihiro Matsumoto\nプログラミング言語「Rub
+ y」の作者\n島根県松江市在住、通称「Matz」。\n一般財団
+ 法人Rubyアソシエーション　理事長\n特定非営利活動法人
+ 軽量Rubyフォーラム　理事長\nOSS-Vision株式会社　専務取
+ 締役CTO\n株式会社ネットワーク応用通信研究所　フェロ
+ ー\nその他　技術顧問先多数\n\nプログラミング言語オタ
+ クのロールモデルとして活躍中。\n子ども達は家を離れ
+ 犬・猫主体の家族構成での生活を送る。\nプログラミン
+ グ言語「Ruby」の開発を1993年より始め、1995年にフリーソ
+ フトウェアとして公開。現在では世界中のウェブ系シス
+ テムで使われるようになる。\n2005年に日本OSS貢献者賞、
+ 2009年に松江市名誉市民、2011年にフリーソフトウェア財
+ 団からThe Award for the Advancement of Free Softwareを受賞。\n2012
+ 年、国際社会で顕著な活動を行い世界で『日本』の発信
+ に貢献したとして、内閣府から「世界で活躍し『日本』
+ を発信する日本人」の一人に選ばれる。
+LOCATION:大展示場1/1F
+URL:https://www.janog.gr.jp/meeting/janog56/matz/
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T032114Z
-LAST-MODIFIED:20250527T032114Z
-DTSTAMP:20250527T032114Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:bf2a9ae6-a09e-4368-923a-a99c7968d1fe
 SUMMARY:新人のためのインターネット&ネットワーク超入門
-  2025🎥 - 土屋 太二(show int / さくらインターネット)
-ATTACH:
+  2025📡📼 - 土屋 太二(show int / さくらインターネット)
 CATEGORIES:多目的ホール/1F
-CATEGORIES:🎥ストリーミング＆アーカイブ
+CATEGORIES:📡📼ストリーミング＆アーカイブ
 DTSTART;TZID=Asia/Tokyo:20250730T103000
 DTEND;TZID=Asia/Tokyo:20250730T120000
 DESCRIPTION:# 概要\n\n「インターネットの中身」についてど
@@ -186,51 +213,31 @@ DESCRIPTION:# 概要\n\n「インターネットの中身」についてど
  くことで、ネットワークエンジニアとしてJANOGコミュニ
  ティの活動を最大限楽しんでいただけるようになってい
  ただくことが目標です。
-LOCATION:多目的ホール/1F(〒690-0826 島根県松江市学園南1丁
- 目2-1 くにびきメッセ)
+LOCATION:多目的ホール/1F
 URL:https://www.janog.gr.jp/meeting/janog56/showint/
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-CREATED:20250527T032247Z
-LAST-MODIFIED:20250527T032247Z
-DTSTAMP:20250527T032247Z
-UID:0cb1726c-cec6-4f9d-b822-cc33816ece5d
-SUMMARY:チュートリアル予定 - 未定
-ATTACH:
-CATEGORIES:国際会議場/3F
-DTSTART;TZID=Asia/Tokyo:20250730T103000
-DTEND;TZID=Asia/Tokyo:20250730T120000
-DESCRIPTION:
-LOCATION:国際会議場/3F(〒690-0826 島根県松江市学園南1丁目2
- -1 くにびきメッセ)
-URL:
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T074308Z
-LAST-MODIFIED:20250527T074308Z
-DTSTAMP:20250527T074308Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:c2ce1bbf-ef6e-46c8-9169-6971169ec8fd
 SUMMARY:開場(大展示場1/1F)
-ATTACH:
 CATEGORIES:大展示場1/1F
 DTSTART;TZID=Asia/Tokyo:20250730T130000
-DESCRIPTION:
-LOCATION:大展示場1/1F(〒690-0826 島根県松江市学園南1丁目2-1
-  くにびきメッセ)
+LOCATION:〒690-0826 島根県松江市学園南1丁目2-1 くにびきメ
+ ッセ 大展示場1/1F
 URL:https://www.kunibikimesse.jp/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T032350Z
-LAST-MODIFIED:20250527T032350Z
-DTSTAMP:20250527T032350Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:fcd3af17-cc5b-4ddb-9877-3349c0ae8460
-SUMMARY:JANOGの歩き方🎥 - JANOG運営委員
-ATTACH:
+SUMMARY:JANOGの歩き方📡📼 - JANOG運営委員
 CATEGORIES:大展示場1/1F
-CATEGORIES:🎥ストリーミング＆アーカイブ
+CATEGORIES:📡📼ストリーミング＆アーカイブ
 DTSTART;TZID=Asia/Tokyo:20250730T131500
 DTEND;TZID=Asia/Tokyo:20250730T134500
 DESCRIPTION:# 概要\n\nJANOGミーティング開始直前に、JANOG自
@@ -239,89 +246,65 @@ DESCRIPTION:# 概要\n\nJANOGミーティング開始直前に、JANOG自
  明内容となっていますが、どなたでも参加いただけます
  。\n\nミーティング開始前に質疑応答の練習などもでき
  ればと考えています。\n\n# 議論ポイント\n\nTBA
-LOCATION:大展示場1/1F(〒690-0826 島根県松江市学園南1丁目2-1
-  くにびきメッセ)
+LOCATION:大展示場1/1F
 URL:https://www.janog.gr.jp/meeting/janog56/orien/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T032614Z
-LAST-MODIFIED:20250527T032614Z
-DTSTAMP:20250527T032614Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:7c19f669-8d1b-4831-bbc6-b906ebb9bc9f
-SUMMARY:開会宣言🎥 - 川上 雄也(ソフトバンク株式会社)、
- 立松 裕將(BBIX株式会社)
-ATTACH:
+SUMMARY:開会宣言📡📼 - 川上 雄也(JANOG56実行委員長)、立
+ 松 裕將(JANOG56実行委員長)
 CATEGORIES:大展示場1/1F
-CATEGORIES:🎥ストリーミング＆アーカイブ
+CATEGORIES:📡📼ストリーミング＆アーカイブ
 DTSTART;TZID=Asia/Tokyo:20250730T140000
 DTEND;TZID=Asia/Tokyo:20250730T141500
-DESCRIPTION:
-LOCATION:大展示場1/1F(〒690-0826 島根県松江市学園南1丁目2-1
-  くにびきメッセ)
+LOCATION:大展示場1/1F
 URL:https://www.janog.gr.jp/meeting/janog56/opening/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T032809Z
-LAST-MODIFIED:20250527T032809Z
-DTSTAMP:20250527T032809Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:89ee3fac-65a3-490e-8d4b-1ad80ca270dd
 SUMMARY:会場諸注意
-ATTACH:
 CATEGORIES:大展示場1/1F
 DTSTART;TZID=Asia/Tokyo:20250730T141500
 DTEND;TZID=Asia/Tokyo:20250730T143000
-DESCRIPTION:
-LOCATION:大展示場1/1F(〒690-0826 島根県松江市学園南1丁目2-1
-  くにびきメッセ)
-URL:
-SEQUENCE:0
+LOCATION:大展示場1/1F
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T074516Z
-LAST-MODIFIED:20250527T074516Z
-DTSTAMP:20250527T074516Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:02c84eaf-2ea9-4688-86ed-49d81c833139
-SUMMARY:開場(多目的ホール/1F)
-ATTACH:
+SUMMARY:開場(多目的ホール/1F、国際会議場/3F)
 CATEGORIES:多目的ホール/1F
-DTSTART;TZID=Asia/Tokyo:20250730T143000
-DESCRIPTION:
-LOCATION:多目的ホール/1F(〒690-0826 島根県松江市学園南1丁
- 目2-1 くにびきメッセ)
-URL:https://www.kunibikimesse.jp/
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-CREATED:20250527T074620Z
-LAST-MODIFIED:20250527T074620Z
-DTSTAMP:20250527T074620Z
-UID:c373f6ee-1e85-4eec-a60d-e647aa58e762
-SUMMARY:開場(国際会議場/3F)
-ATTACH:
 CATEGORIES:国際会議場/3F
 DTSTART;TZID=Asia/Tokyo:20250730T143000
-DESCRIPTION:
-LOCATION:国際会議場/3F(〒690-0826 島根県松江市学園南1丁目2
- -1 くにびきメッセ)
+LOCATION:〒690-0826 島根県松江市学園南1丁目2-1 くにびきメ
+ ッセ 多目的ホール/1F、国際会議場/3F
 URL:https://www.kunibikimesse.jp/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T032945Z
-LAST-MODIFIED:20250527T032945Z
-DTSTAMP:20250527T032945Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:d8a65d07-0111-4278-8de8-e040c5cc8ab6
 SUMMARY:"もっと"400G超通信におけるMPOコネクタの品質につ
- いて考えよう🎥📜 - 藤原 稔(NTTアドバンステクノロジ
- 株式会社)、村上 雅之(NTTアドバンステクノロジ株式会社
- )、東 常行(さくらインターネット株式会社)、平田 大祐(
- さくらインターネット株式会社)
+ いて考えよう📡📼📜 - 藤原 稔(NTTアドバンステクノロ
+ ジ株式会社)、村上 雅之(NTTアドバンステクノロジ株式会
+ 社)、東 常行(さくらインターネット株式会社)、平田 大
+ 祐(さくらインターネット株式会社)
 ATTACH:https://www.janog.gr.jp/meeting/janog56/wp-content/uploads/2025/05/j
  anog56-mpo.pdf
 CATEGORIES:大展示場1/1F
-CATEGORIES:🎥ストリーミング＆アーカイブ
+CATEGORIES:📡📼ストリーミング＆アーカイブ
 CATEGORIES:📜公開資料
 DTSTART;TZID=Asia/Tokyo:20250730T144500
 DTEND;TZID=Asia/Tokyo:20250730T154500
@@ -353,22 +336,21 @@ DESCRIPTION:# 概要\n\nJANOG55「400G超通信におけるMPOコネクタ
  マルチモードのAPCにした場合の課題について\n④より高
  速化を見据えたネットワーク構築における、光ケーブル
  /光トランシーバの選び方について。
-LOCATION:大展示場1/1F(〒690-0826 島根県松江市学園南1丁目2-1
-  くにびきメッセ)
+LOCATION:大展示場1/1F
 URL:https://www.janog.gr.jp/meeting/janog56/mpo/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T033501Z
-LAST-MODIFIED:20250527T033501Z
-DTSTAMP:20250527T033501Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:74b15fc2-f223-489a-ab97-ffa5c058f92d
-SUMMARY:業務スタイルの違いを越えるネットワーク作業自
- 動化プラットフォームの浸透🎥 - 渡辺 みどり(KDDI株式
- 会社)、長野 知幸(KDDI株式会社)、藪原 穣(KDDI株式会社)
-ATTACH:
+SUMMARY:業務スタイルの違いを越える！～ネットワーク作
+ 業自動化プラットフォームの浸透～📡📼 - 渡辺 みどり
+ (KDDI株式会社)、長野 知幸(KDDI株式会社)、藪原 穣(KDDI株
+ 式会社)
 CATEGORIES:多目的ホール/1F
-CATEGORIES:🎥ストリーミング＆アーカイブ
+CATEGORIES:📡📼ストリーミング＆アーカイブ
 DTSTART;TZID=Asia/Tokyo:20250730T144500
 DTEND;TZID=Asia/Tokyo:20250730T154500
 DESCRIPTION:# 概要\n\nKDDIでは、IPネットワークの維持・メン
@@ -441,21 +423,19 @@ DESCRIPTION:# 概要\n\nKDDIでは、IPネットワークの維持・メン
  が納得する形でツールを受け入れてもらうには、どのよ
  うなコミュニケーションが必要か？\n●利用者として、
  どのようなコミュニティがあれば嬉しいか？
-LOCATION:多目的ホール/1F(〒690-0826 島根県松江市学園南1丁
- 目2-1 くにびきメッセ)
+LOCATION:多目的ホール/1F
 URL:https://www.janog.gr.jp/meeting/janog56/style/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T033744Z
-LAST-MODIFIED:20250527T033744Z
-DTSTAMP:20250527T033744Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:63c499cc-5e30-45b9-b94f-83f4211ee428
-SUMMARY:Containerlabで叶えるNWエンジニアの“あるある願望”🎥 - 小川 怜
- (Nokia Solutions & Networks)
-ATTACH:
+SUMMARY:Containerlabで叶えるNWエンジニアの“あるある願望
+ ”📡📼 - 小川 怜(Nokia Solutions & Networks)
 CATEGORIES:国際会議場/3F
-CATEGORIES:🎥ストリーミング＆アーカイブ
+CATEGORIES:📡📼ストリーミング＆アーカイブ
 DTSTART;TZID=Asia/Tokyo:20250730T144500
 DTEND;TZID=Asia/Tokyo:20250730T153000
 DESCRIPTION:# 概要\n\nネットワーク技術者の「ラボ環境でこ
@@ -469,50 +449,48 @@ DESCRIPTION:# 概要\n\nネットワーク技術者の「ラボ環境でこ
  ぐに役立つTipsをご紹介します。さらに、「オレオレ商
  用ネットワーク」に触れられないからつまらない！と感
  じている若手エンジニアや学生に向けて、安価で実践的
- な仮想ラボの構築方法も取り上げたいと思います。\n\n- 
- 仮想ラボをもっと身近に。OS環境に縛られず、すぐ試せ
- るフェーズへ\n- 「今ここのこれを見たい」に応えるキ
- ャプチャー環境\n- ネットワークとクラウドネイティブ
- 。動かして、確かめて、理解する\n- “この1台じゃ足り
+ な仮想ラボの構築方法も取り上げたいと思います。\n\n1.
+  仮想ラボをもっと身近に。OS環境に縛られず、すぐ試せ
+ るフェーズへ\n2. 「今ここのこれを見たい」に応えるキ
+ ャプチャー環境\n3. ネットワークとクラウドネイティブ
+ 。動かして、確かめて、理解する\n4. “この1台じゃ足り
  ない”を超える。手持ちサーバをつなげて広がる検証の
- 可能性\n- コードとラボが同居する。効率も理解もスピ
- ードアップ。すべては一つの画面で\n- クラウドもロー
+ 可能性\n5. コードとラボが同居する。効率も理解もスピ
+ ードアップ。すべては一つの画面で\n6. クラウドもロー
  カルも、すぐにラボ化。リソースを制限せず、どこでも
- 動く検証環境\n- ノートPCでも本格検証。軽量環境でネッ
- トワークを試す\n- もうラボに物理機器はいらない。“
- やってみる”までの距離をゼロにする\n\n\n# 議論ポイン
- ト\n\n- ちょっと試したいだけ」のとき、皆さんはどんな
- 環境を使っていますか？\n→ 使っているツール名だけで
- なく、よくある“用途”や“つまずきポイント”もぜひ
- 共有ください。\n\n- NWラボに「こういう機能があったら
- 助かる！」というアイデアはありますか？\n→ 実装され
- ていなくてもOK。「◯◯をGUIでできたら」「物理機器と
- つなげたい」など想像ベースで！\n\n- ネットワークとア
- プリ開発の境界が曖昧になってきた今、ラボに求められ
- る“柔軟性”とは何でしょう？\n→ CLI以外の操作、クラ
- ウド連携、CI/CD統合、チーム開発視点など、どこに価値
- を感じるか意見ください。\n\n- 若手エンジニアや学生が
- “気軽にラボを始める”には、どんな仕組みやサポート
- があると良いと思いますか？\n→ GUI？チュートリアル？
- サンプル構成？「自分が最初にこれがあれば…」という
- 視点で教えてください。
-LOCATION:国際会議場/3F(〒690-0826 島根県松江市学園南1丁目2
- -1 くにびきメッセ)
+ 動く検証環境\n7. ノートPCでも本格検証。軽量環境でネ
+ ットワークを試す\n8. もうラボに物理機器はいらない。
+ “やってみる”までの距離をゼロにする\n\n# 議論ポイン
+ ト\n\n1. 「ちょっと試したいだけ」のとき、皆さんはど
+ んな環境を使っていますか？\n    → 使っているツール
+ 名だけでなく、よくある“用途”や“つまずきポイント
+ ”もぜひ共有ください。\n2. NWラボに「こういう機能が
+ あったら助かる！」というアイデアはありますか？\n    
+ → 実装されていなくてもOK。「◯◯をGUIでできたら」「
+ 物理機器とつなげたい」など想像ベースで！\n3. ネット
+ ワークとアプリ開発の境界が曖昧になってきた今、ラボ
+ に求められる“柔軟性”とは何でしょう？\n    → CLI以
+ 外の操作、クラウド連携、CI/CD統合、チーム開発視点な
+ ど、どこに価値を感じるか意見ください。\n4. 若手エン
+ ジニアや学生が“気軽にラボを始める”には、どんな仕
+ 組みやサポートがあると良いと思いますか？\n    → GUI
+ ？チュートリアル？サンプル構成？「自分が最初にこれ
+ があれば…」という視点で教えてください。
+LOCATION:国際会議場/3F
 URL:https://www.janog.gr.jp/meeting/janog56/containerlab/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T034209Z
-LAST-MODIFIED:20250527T034209Z
-DTSTAMP:20250527T034209Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:b55d266c-c46c-48ca-9646-56ee37badac4
 SUMMARY:監視稼働削減のためのアラームコリレーションに
- ついて🎥 - 佐藤 亮介(株式会社NTTフィールドテクノ)、
- 荒井 新太郎(株式会社エヌ・ティ・ティ エムイー)、関
- 谷 郵政(日本電気株式会社)
-ATTACH:
+ ついて📡📼 - 佐藤 亮介(株式会社NTTフィールドテクノ)
+ 、荒井 新太郎(株式会社エヌ・ティ・ティ エムイー)、
+ 関谷 郵政(日本電気株式会社)
 CATEGORIES:大展示場1/1F
-CATEGORIES:🎥ストリーミング＆アーカイブ
+CATEGORIES:📡📼ストリーミング＆アーカイブ
 DTSTART;TZID=Asia/Tokyo:20250730T160000
 DTEND;TZID=Asia/Tokyo:20250730T170000
 DESCRIPTION:# 概要\n\n我々NTTフィールドテクノ 及びNTT-MEのNO
@@ -568,24 +546,22 @@ DESCRIPTION:# 概要\n\n我々NTTフィールドテクノ 及びNTT-MEのNO
  ーチを試みました.\n\n# 議論ポイント\n\n・アラーム監視
  に関する課題感について\n・アラームを削減するために
  どのようなアプローチをとっていますか など
-LOCATION:大展示場1/1F(〒690-0826 島根県松江市学園南1丁目2-1
-  くにびきメッセ)
+LOCATION:大展示場1/1F
 URL:https://www.janog.gr.jp/meeting/janog56/correlation/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T034347Z
-LAST-MODIFIED:20250527T034347Z
-DTSTAMP:20250527T034347Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:7cda9d8e-316b-4f21-937c-0ebb57bc7e9a
 SUMMARY:ECS(RFC 7871)を実際使おうと思うと困ること～商用利
- 用を前提とした検証結果の共有～🎥🤐 - 高見澤 信弘(
- 株式会社Ｊストリーム)、今泉 充司(KDDI株式会社)、関 正
- 樹(株式会社JPIX)
-ATTACH:
+ 用を前提とした検証結果の共有～📡📼📴 - 高見澤 信
+ 弘(株式会社Ｊストリーム)、今泉 充司(KDDI株式会社)、関
+  正樹(株式会社JPIX)
 CATEGORIES:多目的ホール/1F
-CATEGORIES:🎥ストリーミング＆アーカイブ
-CATEGORIES:🤐オフレコ
+CATEGORIES:📡📼ストリーミング＆アーカイブ
+CATEGORIES:📴SNSやSlackでの議論や情報共有禁止
 DTSTART;TZID=Asia/Tokyo:20250730T160000
 DTEND;TZID=Asia/Tokyo:20250730T170000
 DESCRIPTION:# 概要\n\nECS(RFC7871)については、DNSベースの負荷
@@ -612,24 +588,23 @@ DESCRIPTION:# 概要\n\nECS(RFC7871)については、DNSベースの負荷
  下がったと思えるか意見をいただきたい\n・自社で利用
  しているsubnetについて、どの程度制御してほしい（した
  い）ですか？（ISPさん側の意見を伺いたい）
-LOCATION:多目的ホール/1F(〒690-0826 島根県松江市学園南1丁
- 目2-1 くにびきメッセ)
+LOCATION:多目的ホール/1F
 URL:https://www.janog.gr.jp/meeting/janog56/rfc7871/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T034626Z
-LAST-MODIFIED:20250527T034626Z
-DTSTAMP:20250527T034626Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:3779294e-c016-43d2-8fe0-996d69854ccd
 SUMMARY:2025年フィッシングの動向と対策＆最新メールセキ
- ュリティー🎥 - 平塚 伸世(一般社団法人JPCERTコーディネ
- ーションセンター/フィッシング対策協議会)、櫻庭 秀次
- (一般社団法人メッセージング研究所/JPAAWG)、加瀬 正樹(
- 株式会社TwoFive/JPAAWG)
-ATTACH:
+ ュリティー📡📼 - 平塚 伸世(一般社団法人JPCERTコーデ
+ ィネーションセンター/フィッシング対策協議会)、櫻庭 
+ 秀次(一般社団法人メッセージング研究所/JPAAWG)、加瀬 
+ 正樹(株式会社TwoFive/JPAAWG)、末政 延浩(株式会社TwoFive / JP
+ AAWG)
 CATEGORIES:国際会議場/3F
-CATEGORIES:🎥ストリーミング＆アーカイブ
+CATEGORIES:📡📼ストリーミング＆アーカイブ
 DTSTART;TZID=Asia/Tokyo:20250730T160000
 DTEND;TZID=Asia/Tokyo:20250730T170000
 DESCRIPTION:# 概要\n\n2024年後半からフィッシングメール配
@@ -659,81 +634,86 @@ DESCRIPTION:# 概要\n\n2024年後半からフィッシングメール配
  策、DMARCの改訂、DKIM2.0など最新のメールセキュリティー
  について共有し、その対応と課題について皆さまと議論
  したいと思います。\n\n# 議論ポイント\n\n- 逆引き設定の
- ないIPアドレスからのメールへのペナルティ\n  - 一時的
- なエラーを返す（4xx）\n  - グレイリスト\n  - 流量制限\n 
-  - 捨てていい\n  - その他\n- ブロックリストとの比較\n  -
-  自分でコントロールできないブロックリストに載って
- ブロックされるより、逆引き設定をきちんとすれば受け
- 取ってもらえる、という状況のほうが健全ではないか?\n
-   - 運用的にはどちらがやりやすいか\n- その他、メール
- セキュリティ技術に関すること\n  - DMARC設定したけど、
- みなさん、p=rejectに向けて運用管理してますか?\n  - DMARC
- 改定とDKIM 2.0 について\n  - その他
-LOCATION:国際会議場/3F(〒690-0826 島根県松江市学園南1丁目2
- -1 くにびきメッセ)
+ ないIPアドレスからのメールへのペナルティ\n    - 一時
+ 的なエラーを返す（4xx）\n    - グレイリスト\n    - 流量
+ 制限\n    - 捨てていい\n    - その他\n- ブロックリストと
+ の比較\n    - 自分でコントロールできないブロックリス
+ トに載ってブロックされるより、逆引き設定をきちんと
+ すれば受け取ってもらえる、という状況のほうが健全で
+ はないか?\n    - 運用的にはどちらがやりやすいか\n- そ
+ の他、メールセキュリティ技術に関すること\n    - DMARC
+ 設定したけど、みなさん、p=rejectに向けて運用管理して
+ ますか?\n    - DMARC改定とDKIM 2.0 について\n    - その他
+LOCATION:国際会議場/3F
 URL:https://www.janog.gr.jp/meeting/janog56/phishing/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T034940Z
-LAST-MODIFIED:20250527T034940Z
-DTSTAMP:20250527T034940Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:ef212855-187d-40a6-ab23-f27ce072beea
 SUMMARY:LLMでネットワーク構築運用支援実験@Interop Tokyo 2025
-  ShowNet🎥 - 中村 遼(東京大学/Interop Tokyo 2025 ShowNet NOCチー
- ム)
-ATTACH:
+  ShowNet📡📼 - 中村 遼(東京大学/Interop Tokyo 2025 ShowNet NOC
+ チーム)
 CATEGORIES:大展示場1/1F
-CATEGORIES:🎥ストリーミング＆アーカイブ
+CATEGORIES:📡📼ストリーミング＆アーカイブ
 DTSTART;TZID=Asia/Tokyo:20250730T171500
 DTEND;TZID=Asia/Tokyo:20250730T180000
 DESCRIPTION:# 概要\n\n本発表では、2025年6月のInterop Tokyoで構
  築される大規模デモンストレーションネットワークShowNe
- tにおいて実施予定の、生成AIが現時点で実際のところど
- れほどネットワーク構築・運用の役に立つのかを検証す
- る実験と、その結果について報告します。\n\nここ数回
- のJANOGにおける発表にもある通り、生成AIの活用方法を
- 探る流れは、当然ネットワーク運用の分野にも訪れてい
- ます。一方、では生成AIがネットワークの運用にどれ程
- 役に立つのかを検証し評価することは容易ではありませ
- ん。例えば生成AIを適用・検証できる環境が箱庭や一部
- 分など限定的であったり、生成された応答がどれほど有
- 用と言えるのかを定量的に評価するのが難しいためです
- 。\n\nそこで2025年のShowNetでは、ネットワーク運用におけ
- る生成AI利用のケーススタディとして、ShowNetの構築・運
- 用に特化させたチャットボットを実装し、実際に多数の
- ネットワークエンジニアに利用してもらうことでその有
- 用性を検証・評価する実験を行います。\n\n実験の内容
- は2025年6月11日、Interop Tokyoの展示会開始とともに公開予
- 定です。\n\nはたして生成AIはShowNetの構築・運用にどれ
- ほど役に立つのか(または立たないのか)、この発表概要
- を書いている今の段階ではまだ誰にもわかりませんが、
- 本実験を通じて得られるネットワーク運用における生成
- AI利用に関するユースケースは、幅広くネットワークオ
- ペレータにとって新しい知見をもたらすもと期待してい
- ます。\n\n# 議論ポイント\n\n* 生成AIの活用方法としてど
- のようなものがあったか、それが異なる環境ではどう役
- にたつのか/たたないのか、他にはどんな使い方が考え
- られるか\n* 生成される応答の曖昧さをどう許容するか\n
- * MCPで繋げるとよさそうなもの\n* 今後実運用に生成AIを
- 利用するときのハードルは何か
-LOCATION:大展示場1/1F(〒690-0826 島根県松江市学園南1丁目2-1
-  くにびきメッセ)
+ tにおいて実施する、生成AIが現時点で実際のところどれ
+ ほどネットワーク構築・運用の役に立つのかを検証する
+ 実験と、その結果について報告します。\n\nここ数回のJA
+ NOGにおける発表にもある通り、生成AIの活用方法を探る
+ 流れは、当然ネットワーク運用の分野にも訪れています
+ 。一方、では生成AIがネットワークの運用にどれ程役に
+ 立つのかを検証し評価することは容易ではありません。
+ 例えば生成AIを適用・検証できる環境が箱庭や一部分な
+ ど限定的であったり、生成された応答がどれほど有用と
+ 言えるのかを定量的に評価するのが難しいためです。\n\
+ nそこで2025年のShowNetでは、ネットワーク運用における生
+ 成AI利用のケーススタディとして、ShowNetの構築・運用に
+ 生成AIを用いることでその有用性を検証・評価する実験
+ を行います。\n\n実験では、ShowNetの構築に参加するエン
+ ジニアたちに、ShowNet向けに実装した生成AIによるチャッ
+ トボットを利用してもらい、AIの応答が役に立ったか、
+ 立たなかったかを評価してもらいます。\n\nこのチャッ
+ トボットは、一般的な応答の生成に加えて次の機能を持
+ ちます:\n\n・実際に幕張メッセで稼働しているルータや
+ スイッチのCLIを生成AIが直接操作する(MCP)\n・ShowNetのチ
+ ケットシステム上のチケットを生成AIが参照する(MCP)\n・
+ 昨年のShowNetの機器のconfigと今年の設計資料を必要に応
+ じて検索する(RAG)\n\nチャット画面を通じて生成AIに対し
+ て自然言語で指示することで、例えばAIに直接ネットワ
+ ーク機器を操作させ、状況確認やdebugに利用することが
+ できます。\n\nはたして生成AIはShowNetの構築・運用にど
+ れほど役に立つのか(または立たないのか)、この発表概
+ 要を書いている今の段階ではまだ誰にもわかりませんが
+ 、本実験を通じて得られるネットワーク運用における生
+ 成AI利用に関するユースケースは、幅広くネットワーク
+ オペレータにとって新しい知見をもたらすものと期待し
+ ています。\n\n# 議論ポイント\n\n* 生成AIの活用方法とし
+ てどのようなものがあったか、それが異なる環境ではど
+ う役にたつのか/たたないのか、他にはどんな使い方が
+ 考えられるか\n* 生成される応答の曖昧さをどう許容す
+ るか\n* MCPで繋げるとよさそうなもの\n* 今後実運用に生
+ 成AIを利用するときのハードルは何か
+LOCATION:大展示場1/1F
 URL:https://www.janog.gr.jp/meeting/janog56/shownet/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T035208Z
-LAST-MODIFIED:20250527T035208Z
-DTSTAMP:20250527T035208Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:b3028e4c-3367-41cd-8c8e-c478b021a69d
 SUMMARY:ネットワーク運用自動化におけるドリフト解消機
- 能の実現と、その後の苦労🎥 - 甘利 丈慈(NRIセキュアテ
- クノロジーズ)、Oyunbileg Chingun(NRIセキュアテクノロジー
- ズ)
-ATTACH:
+ 能の実現と、その後の苦労📡📼 - 甘利 丈慈(NRIセキュ
+ アテクノロジーズ)、Oyunbileg Chingun(NRIセキュアテクノロ
+ ジーズ)
 CATEGORIES:多目的ホール/1F
-CATEGORIES:🎥ストリーミング＆アーカイブ
+CATEGORIES:📡📼ストリーミング＆アーカイブ
 DTSTART;TZID=Asia/Tokyo:20250730T171500
 DTEND;TZID=Asia/Tokyo:20250730T180000
 DESCRIPTION:# 概要\n\nネットワーク運用自動化をテーマにJAN
@@ -773,20 +753,18 @@ DESCRIPTION:# 概要\n\nネットワーク運用自動化をテーマにJAN
  には他に何ができるか\n\n・ 類似事例 / 失敗談 / 横展開
  例など\n\n・ 上記のような設計者の想定と現場の実情の
  ギャップを埋めるためにどのような仕組み作りが必要か
-LOCATION:多目的ホール/1F(〒690-0826 島根県松江市学園南1丁
- 目2-1 くにびきメッセ)
+LOCATION:多目的ホール/1F
 URL:https://www.janog.gr.jp/meeting/janog56/configdrift/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T035410Z
-LAST-MODIFIED:20250527T035410Z
-DTSTAMP:20250527T035410Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:c252f418-4856-483d-a2b3-92143501c2e6
-SUMMARY:LT for Network Beginners🎥
-ATTACH:
+SUMMARY:LT for Network Beginners📡📼
 CATEGORIES:国際会議場/3F
-CATEGORIES:🎥ストリーミング＆アーカイブ
+CATEGORIES:📡📼ストリーミング＆アーカイブ
 DTSTART;TZID=Asia/Tokyo:20250730T171500
 DTEND;TZID=Asia/Tokyo:20250730T180000
 DESCRIPTION:　このプログラムは、ネットワーク業界に入り
@@ -799,95 +777,179 @@ DESCRIPTION:　このプログラムは、ネットワーク業界に入り
  なテーマでも大歓迎です。「わかりやすさ」を大切にし
  た LT をお待ちしております。\n例）「L3スイッチとルー
  タって何が違うのLT」「サーバエンジニアとNWエンジニ
- アの違い」「BGP って何？」など\n\n# 開催# 概要\n\n日時
- ：2025年 7月30日 (水) 17:15 – 18:00\n会場：国際会議場/3F\n
- モデレータ：小野 碧月 (JANOG56 プログラム委員)\n\n持ち
- 時間：5分/LT\n登壇人数：1人/LT\n\n発表内容：ネットワー
- ク初心者に向けた内容。\n発表方法：会場での現地登壇
- 。資料投影に使う PC 端末をご持参ください。\n発表言語
- ：日本語\n※日本語以外での発表の場合は、応募者側で
- 日本語への通訳をお願いいたします。\n\nオンライン配
- 信：本プログラムはライブストリーミング配信、および
- 本会議終了後のアーカイブ配信が予定されています\n\n# 
- LT for Network Beginners への応募について\n\n## 募集期間\n\n募
- 集開始予定：2025年 6月 2日 (月) 12:00 [JST]\n募集終了予定
- ：2025年6月27日 (金) 23:59 [JST]\n\n採用数：最大 5枠\n\n## 応
- 募方法\n\nGoogle フォームまたはメールでの受付を予定し
- ています。\n\n- 発表タイトル\n- 発表概要\n- 発表資料 ※
- 本番で使用する想定でプレゼンテーション資料をご準備
- ください\n\n以上の提出が必要となりますので、予めお
- 知らせいたします。\n\n## 選考方法\n\n次の2つの観点につ
- いて、モデレータ及びモデレータが指名する審査員がそ
- れぞれ10点満点で採点を行います。\n\n- ネットワーク初
- 心者が興味を持ちやすいタイトル・内容か？ (5点)\n- ネ
- ットワーク初心者でもわかりやすい内容か？ (5点)\n\n採
- 点結果の高い順に採用を決定します。\n\n# 留意事項\n\n- 
- JApanNetwork Operators’ Group Policy に基づき、営業活動が目的
- と思われる発表はできません。\n- JANOG行動規範 に基づ
- き、あらゆる嫌がらせや誹謗中傷、反社会的行為を含む
- 発表はお断りします。\n- 応募内容に含まれる個人情報
- は、JANOG56 プログラム募集目的で使用します。\n- ご応募
- をいただいた時点で、JANOG における個人情報取扱ポリシ
- ー に同意いただいたものとします。\n- 会場近くの宿泊
- 施設は空室が少ない模様です。応募の際は宿泊先または
- 交通手段を確保いただくようお願いします。\n\n# よくあ
- る質問\n\nQ1. 登壇の対象は社歴でいうと何年くらいでし
- ょうか？\nA1. 登壇対象に制限はありません。入社歴の浅
- い方はもちろんベテランも大歓迎です。入門者に向けた
- 発表であることを重視しています。\n\nQ2. 他のライトニ
- ングトークにも応募できますか？\nA2. はい、同一人物が
- 複数の LT に応募できます。ただしそれぞれのテーマに
- 沿った応募をお願いします。\n\nQ3. リモートで登壇でき
- ますか？\nA3. いいえ、リモート登壇の環境を用意してい
- ません。現地へお越しの上ご登壇ください。\n\nその他
- 、ご不明な点がございましたら meeting-56[at]janog.gr.jp まで
- お問い合わせください。
-LOCATION:国際会議場/3F(〒690-0826 島根県松江市学園南1丁目2
- -1 くにびきメッセ)
+ アの違い」「BGP って何？」など\n\n# 開催概要\n\n日時：2
+ 025年 7月30日 (水) 17:15 – 18:00\n会場：国際会議場/3F\nモデ
+ レータ：小野 碧月 (JANOG56 プログラム委員)\n\n持ち時間
+ ：5分/LT\n登壇人数：1人/LT\n\n発表内容：ネットワーク初
+ 心者に向けた内容。\n発表方法：会場での現地登壇。資
+ 料投影に使う PC 端末をご持参ください。\n発表言語：日
+ 本語\n※日本語以外での発表の場合は、応募者側で日本
+ 語への通訳をお願いいたします。\n\nオンライン配信：
+ 本プログラムはライブストリーミング配信、および本会
+ 議終了後のアーカイブ配信が予定されています\n\n# 採用
+ プログラム\n## LT1: Peeringの世界へ飛び込もう！\n\n発表者
+ ：\n熊本 豊 (ミテネインターネット株式会社)\n\n発表概
+ 要：\nインターネットを支える“舞台裏”に興味はあり
+ ませんか？\n\n私たちが毎日使っているインターネット
+ 。その裏側では、無数のネットワーク同士が「Peering（
+ ピアリング）」という仕組みでつながり、情報がスムー
+ ズにやりとりされています。\nでも、その世界はまだま
+ だ謎に思われがちで、とても遠く感じられるかもしれま
+ せん。\nこのライトニングトークでは、「トランジット
+ や、IXを使ったパブリックPeer、PNI(Private Network Interconnect)
+ などの違い」「その先に何があるの？」といった事をお
+ 伝えして、実際にこの世界に飛び込んだ経験や、“この
+ 世界の面白さ”をお届けします。\n\n応募資料：\n[Peering
+ の世界へ飛び込もう！](https://www.janog.gr.jp/meeting/janog56/wp-
+ content/uploads/2025/05/janog56_lt-for-beginners_peering_kumamoto-pre.pdf)\
+ n\n採点結果：\n入門性: 21(平均 4.2)\n明瞭性: 18(平均 3.6)\n
+ ———\nTotal: 39(平均 7.8)\n\n## LT2: トラフィックグラフは
+ どう作られる？ 〜sFlow/NetFlowを使ってみる〜\n\n発表者：
+ \n外山 結月 (BBSakura Networks株式会社 / BBIX株式会社)\n\n発
+ 表概要：\nネットワーク運用に欠かせないトラフィック
+ グラフ。「これってどうやってできてるんだろう？」そ
+ う疑問に思ったことはありませんか？本LTでは、このグ
+ ラフが単なる“絵”ではなく、その裏側でNetFlowやsFlowと
+ いった技術が動いていることをご紹介します。\n\nSNMPと
+ の違いにも触れながら、NetFlow/sFlowがネットワーク機器
+ からコレクターへ、どのようにトラフィック情報を”報
+ 告”しているのかを分かりやすく解説します。さらに、
+ Cisco Modeling Labs (CML) を用いた、実際の機器設定やトラフ
+ ィック取得の様子をお見せします。この5分間で、トラ
+ フィックグラフの正体を知り、NetFlow/sFlowの手軽さと面
+ 白さを感じていただけるはずです。\n\n応募資料：\n[ト
+ ラフィックグラフはどう作られる？ 〜sFlow/NetFlowを使っ
+ てみる〜](https://www.janog.gr.jp/meeting/janog56/wp-content/uploads/20
+ 25/05/janog56_lt-for-beginners_trafficgraph_toyama.pdf)\n\n採点結果：\
+ n入門性: 17(平均 3.4)\n明瞭性: 17(平均 3.4)\n———\nTotal: 34
+ (平均 6.8)\n\n## LT3: R(outing)-1 グランプリ 〜ルーティング
+ プロトコルを運用者視点で戦わせてみた〜\n\n発表者：\n
+ 稲垣 勇佑 (シスコシステムズ合同会社)\n\n発表概要：\n
+ ネットワークの中でデータを送り届ける「道案内人」、
+ それがルーティングプロトコルです。それぞれが得意分
+ 野を持ちながらも、運用現場ではその「個性」が諸刃の
+ 剣になることも。今回のプレゼンでは、代表的なルーテ
+ ィングプロトコルたちを集めて、それぞれの特徴や実力
+ を運用者視点で徹底比較します。\nスケーラビリティ、
+ 収束速度、リソース効率、管理のしやすさ、そして互換
+ 性…。これらの評価ポイントをもとに、いったい誰が「
+ 最強の道案内人」の称号を手にするのか？\nしかし、ど
+ んなに優れたプロトコルでも、運用現場では思わぬ弱点
+ が見えてくるものです。このプレゼンでは、単なるプロ
+ トコルの優劣だけでなく、プロトコル選択の裏に隠され
+ た「運用上の真実」や「どのプロトコルがどんな環境に
+ 適しているのか」についても解説。初心者でもプロトコ
+ ル選びの奥深さを感じられる内容となっています。\n\n
+ 応募資料：\n[R(outing)-1 グランプリ 〜ルーティングプロ
+ トコルを運用者視点で戦わせてみた〜](https://www.janog.gr.j
+ p/meeting/janog56/wp-content/uploads/2025/05/janog56_lt-for-beginners_r1-gr
+ andprix_inagaki.pdf)\n\n採点結果：\n入門性: 21(平均 4.2)\n明瞭
+ 性: 18(平均 3.6)\n———\nTotal: 39(平均 7.8)\n\n## LT4: 光ファ
+ イバ伝送技術の基礎 〜変調方式をやさしく理解する〜\n
+ \n発表者：\n増田 陽 (双日テックイノベーション株式会
+ 社)\n\n発表概要：\n本発表では、ネットワーク初心者の
+ 方向けに「光ファイバ伝送技術」の基礎をやさしく解説
+ します。\n特に、データを光に乗せて送るために欠かせ
+ ない「変調方式」に焦点を当て、振幅変調・位相変調な
+ どの基本的な仕組みを図解を交えて紹介します。\nまた
+ 、より多くのデータを送るための「高多値化」や「高ボ
+ ーレート化」といった工夫についても触れ、実際の通信
+ 技術がどのように進化しているのかを直感的に理解でき
+ る内容を目指します。\n「変調って聞いたことあるけど
+ よくわからない…」という方にこそ聞いてほしい、5分
+ でわかる光伝送の世界です。\n\n応募資料：\n[光ファイ
+ バ伝送技術の基礎 〜変調方式をやさしく理解する〜](htt
+ ps://www.janog.gr.jp/meeting/janog56/wp-content/uploads/2025/05/janog56_lt-
+ for-beginners_optical-fiber_masuda.pdf)\n\n採点結果：\n入門性: 18(
+ 平均 3.6)\n明瞭性: 15(平均 3.0)\n———\nTotal: 33(平均 6.6)\n\
+ n## LT5: ネットワーク始めたけど何からすれば…な人へ贈
+ る話\n\n発表者：\n鷲津 光貴\n\n発表概要：\nネットワー
+ クに興味があっても、右も左も分からなかった文系学生
+ が、業務用ルーターを買って楽しさに気づきました。「
+ 何となく参考書をやってるけど…」いまいちピンと来て
+ ない方、ネットワークを学びたくても何をすればいいか
+ 分からない方へ、私が楽しくなっちゃってるものを紹介
+ します。\n\n応募資料：\n[ネットワーク始めたけど何か
+ らすれば…な人へ贈る話](https://www.janog.gr.jp/meeting/janog56/
+ wp-content/uploads/2025/05/janog56_lt-for-beginners_love-ix2215_washizu.pdf
+ )\n\n採点結果：\n入門性: 21(平均 4.2)\n明瞭性: 15(平均 3.0)\
+ n———\nTotal: 36(平均 7.2)\n\n# LT for Network Beginners への応
+ 募について\n## 募集期間\n\n募集開始：2025年 6月 2日 (月) 
+ 12:00 [JST]\n募集終了：2025年6月27日 (金) 23:59 [JST]\n\nJANOG56
+ のLT for Network Beginners募集は終了いたしました。たくさん
+ のご応募ありがとうございました。\n\n採用数：最大 5枠
+ \n\n## 選考方法\n\n次の2つの観点について、モデレータ及
+ びモデレータが指名する審査員がそれぞれ10点満点で採
+ 点を行います。\n\n- 入門性：ネットワーク初心者が興味
+ を持ちやすいタイトル・内容か? (5点)\n- 明瞭性：ネット
+ ワーク初心者でもわかりやすい内容か? (5点)\n\n採点結果
+ の高い順に採用を決定します。\n\n## 審査員\n\n- 高橋 翔 
+ (JANOG56 プログラム委員)\n- 小野 碧月 (JANOG56 プログラム
+ 委員)\n- 田中 希和 (JANOG56 プログラム委員)\n- 青木 萌笑 (
+ JANOG56 企画編成委員)\n- 川上 雄也 (JANOG56 実行委員長)\n\n#
+  留意事項\n\n- JApanNetwork Operators’ Group Policy に基づき、
+ 営業活動が目的と思われる発表はできません。\n- JANOG行
+ 動規範 に基づき、あらゆる嫌がらせや誹謗中傷、反社
+ 会的行為を含む発表はお断りします。\n- 応募内容に含
+ まれる個人情報は、JANOG56 プログラム募集目的で使用し
+ ます。\n- ご応募をいただいた時点で、JANOG における個
+ 人情報取扱ポリシー に同意いただいたものとします。\n
+ - 会場近くの宿泊施設は空室が少ない模様です。応募の
+ 際は宿泊先または交通手段を確保いただくようお願いし
+ ます。\n\n# よくある質問\n\nQ1. 登壇の対象は社歴でいう
+ と何年くらいでしょうか？\nA1. 登壇対象に制限はありま
+ せん。入社歴の浅い方はもちろんベテランも大歓迎です
+ 。入門者に向けた発表であることを重視しています。\n\
+ nQ2. 他のライトニングトークにも応募できますか？\nA2. 
+ はい、同一人物が複数の LT に応募できます。ただしそ
+ れぞれのテーマに沿った応募をお願いします。\n\nQ3. リ
+ モートで登壇できますか？\nA3. いいえ、リモート登壇の
+ 環境を用意していません。現地へお越しの上ご登壇くだ
+ さい。\n\nその他、ご不明な点がございましたら meeting-56
+ [at]janog.gr.jp までお問い合わせください。
+LOCATION:国際会議場/3F
 URL:https://www.janog.gr.jp/meeting/janog56/lt-for-beginners/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T074750Z
-LAST-MODIFIED:20250527T074750Z
-DTSTAMP:20250527T074750Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:7b41bbd7-130f-4696-9ae4-163b9be58912
 SUMMARY:開場
-ATTACH:
-CATEGORIES:
+CATEGORIES:大展示場1/1F
+CATEGORIES:多目的ホール/1F
+CATEGORIES:国際会議場/3F
 DTSTART;TZID=Asia/Tokyo:20250731T094500
-DESCRIPTION:
 LOCATION:〒690-0826 島根県松江市学園南1丁目2-1 くにびきメ
  ッセ 
 URL:https://www.kunibikimesse.jp/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T075747Z
-LAST-MODIFIED:20250527T075747Z
-DTSTAMP:20250527T075747Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:59cc1944-269e-4371-883d-34c61c186d6f
 SUMMARY:会場諸注意
-ATTACH:
-CATEGORIES:
+CATEGORIES:大展示場1/1F
+CATEGORIES:多目的ホール/1F
+CATEGORIES:国際会議場/3F
 DTSTART;TZID=Asia/Tokyo:20250731T100000
-DESCRIPTION:
 LOCATION:〒690-0826 島根県松江市学園南1丁目2-1 くにびきメ
  ッセ
-URL:
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T041519Z
-LAST-MODIFIED:20250527T041519Z
-DTSTAMP:20250527T041519Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:4201d1ed-8feb-4183-b20e-9aa3d268bfe7
-SUMMARY:AI/ML基盤における800GbEスイッチ導入とその挑戦🎥 
- - 小障子 尚太朗(株式会社サイバーエージェント)、疋田 
- 紅樹(株式会社サイバーエージェント)
-ATTACH:
+SUMMARY:AI/ML基盤における800GbEスイッチ導入とその挑戦📡
+ 📼 - 小障子 尚太朗(株式会社サイバーエージェント)、
+ 疋田 紅樹(株式会社サイバーエージェント)
 CATEGORIES:大展示場1/1F
-CATEGORIES:🎥ストリーミング＆アーカイブ
+CATEGORIES:📡📼ストリーミング＆アーカイブ
 DTSTART;TZID=Asia/Tokyo:20250731T101500
 DTEND;TZID=Asia/Tokyo:20250731T110000
 DESCRIPTION:# 概要\n\nサイバーエージェントでは、社内向け
@@ -914,23 +976,21 @@ DESCRIPTION:# 概要\n\nサイバーエージェントでは、社内向け
  時代のネットワーク設計・検証はどのように進めると良
  いですか\n– ラック内の高密度な配線を実現するための
  工夫などありますか
-LOCATION:大展示場1/1F(〒690-0826 島根県松江市学園南1丁目2-1
-  くにびきメッセ)
+LOCATION:大展示場1/1F
 URL:https://www.janog.gr.jp/meeting/janog56/800g/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T041718Z
-LAST-MODIFIED:20250527T041718Z
-DTSTAMP:20250527T041718Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:558c6020-ba84-4e6e-9aa9-188d21c7b629
 SUMMARY:5Gコアの試験プロセス自動化戦略/手法論の立て方 
  ～テストの担当者ですが、残業は嫌なので手順を自動化
- しようと思います～🎥 - 小原 啓希(NTTドコモ)、白水 孝
- 始(NTTドコモ)
-ATTACH:
+ しようと思います～📡📼 - 小原 啓希(NTTドコモ)、白水 
+ 孝始(NTTドコモ)
 CATEGORIES:多目的ホール/1F
-CATEGORIES:🎥ストリーミング＆アーカイブ
+CATEGORIES:📡📼ストリーミング＆アーカイブ
 DTSTART;TZID=Asia/Tokyo:20250731T101500
 DTEND;TZID=Asia/Tokyo:20250731T110000
 DESCRIPTION:# 概要\n\n近年、ネットワークやインフラの試験
@@ -960,20 +1020,18 @@ DESCRIPTION:# 概要\n\n近年、ネットワークやインフラの試験
  \n・品質担保を目的とした試験は何を根拠にどこまで行
  っているか\n・試験を実施するにあたり、そのための環
  境や調整(ヒトの介入具合)はどのように行って
-LOCATION:多目的ホール/1F(〒690-0826 島根県松江市学園南1丁
- 目2-1 くにびきメッセ)
+LOCATION:多目的ホール/1F
 URL:https://www.janog.gr.jp/meeting/janog56/5gc-autotest/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T041902Z
-LAST-MODIFIED:20250527T041902Z
-DTSTAMP:20250527T041902Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:d47a722e-3093-4731-93b4-4f99483b6039
-SUMMARY:過去プログラムへの返答 LT🎥
-ATTACH:
+SUMMARY:過去プログラムへの返答 LT📡📼
 CATEGORIES:国際会議場/3F
-CATEGORIES:🎥ストリーミング＆アーカイブ
+CATEGORIES:📡📼ストリーミング＆アーカイブ
 DTSTART;TZID=Asia/Tokyo:20250731T101500
 DTEND;TZID=Asia/Tokyo:20250731T110000
 DESCRIPTION:　このプログラムは、過去 28年間の JANOG で発
@@ -988,70 +1046,67 @@ DESCRIPTION:　このプログラムは、過去 28年間の JANOG で発
  ラムでは、全員のプレゼンテーション終了後に 15分程度
  の議論の時間を設けています。\n\nこの LT は、JANOGer の
  皆さんから発表内容を募集した後に、皆さんの投票によ
- って採択されます。\n\n# 開催# 概要\n\n日時：2025年 7月31
- 日 (木) 10:15 – 11:00\n会場：国際会議場/3F\nモデレータ：
- 山本 桃歌 (JANOG56 プログラム委員)\n\n持ち時間：5分/LT\n
- 登壇人数：1人/LT (通訳を除く)\n\n発表内容：過去の JANOG 
- プログラムに言及するもの。\n発表方法：会場での現地
- 登壇。資料投影に使う PC 端末をご持参ください。\n発表
- 言語：日本語\n※日本語以外での発表の場合は、応募者
- 側で日本語への通訳をお願いいたします。\n\nオンライ
- ン配信：本プログラムはライブストリーミング配信、お
- よび本会議終了後のアーカイブ配信が予定されています
- \n\n# 過去プログラムへの返答 LT への応募と選考につい
- て\n\n## 募集期間\n\n募集開始予定：2025年 6月 2日 (月) 12:0
- 0 [JST]\n募集終了予定：2025年 6月27日 (金) 23:59 [JST]\n\n採用
- 数：最大 5枠\n\n## 応募方法\n\nGoogle フォームまたはメー
- ルでの受付を予定しています。\n\n- 発表タイトル\n- 言
- 及する過去のプログラム名と開催回 （e.g. JANOG55\, JANOGの
- 歩き方)\n- 発表# 概要\n\n以上の提出が必要となりますの
- で、予めお知らせいたします。\n選考に際してプレゼン
- 資料は必要ありません。\n\n## 選考・公開投票について\n
- \n応募数が採用数を超えた場合は JANOGer の皆さんによる 
- 1週間の公開投票を行います。\n投票には Google フォーム
- を使用する予定です。\n\n投票開始予定：2025年 7月 1日 (
- 火) 12:00 [JST]\n投票終了予定：2025年 7月 7日 (月) 23:59 [JST]\
- n\n得票数が多い順に採用を決定します。\n\n応募を検討
- されている方へ\n\n発表タイトル、発表概要、言及する
- 過去プログラムを元に公開投票を行います。\n公開投票
- に際して、応募者のプロフィールは公開されません。\n
- 投票終了後、採用された方のプロフィール (氏名・所属)
-  が発表内容と共に公開されます。\n\n# 留意事項\n\n- JApan
- Network Operators’ Group Policy に基づき、営業活動が目的と
- 思われる発表はできません。\n- JANOG行動規範 に基づき
- 、あらゆる嫌がらせや誹謗中傷、反社会的行為を含む発
- 表はお断りします。\n- 応募内容に含まれる個人情報は
- 、JANOG56 プログラム募集目的で使用します。\n- ご応募を
- いただいた時点で、JANOG における個人情報取扱ポリシー
-  に同意いただいたものとします。\n- 会場近くの宿泊施
- 設は空室が少ない模様です。応募の際は宿泊先または交
- 通手段を確保いただくようお願いします。\n\n# よくある
- 質問\n\nQ1. 応募する人は、当時の登壇者と同一である必
- 要がありますか？\nA1. いいえ。当時の登壇を見て何か行
- 動した人すべてが対象です。もちろん御本人の応募も大
- 歓迎です。\n\nQ2. 他のライトニングトークにも応募でき
- ますか？\nA2. はい、同一人物が複数の LT に応募できま
- す。ただしそれぞれのテーマに沿った応募をお願いしま
- す。\n\nQ3. リモートで登壇できますか？\nA3. いいえ、リ
- モート登壇の環境を用意していません。現地へお越しの
- 上ご登壇ください。\n\nその他、ご不明な点がございま
- したら meeting-56[at]janog.gr.jp までお問い合わせください。
-LOCATION:国際会議場/3F(〒690-0826 島根県松江市学園南1丁目2
- -1 くにびきメッセ)
+ って採択されます。\n\n# 開催概要\n\n日時：2025年 7月31日
+  (木) 10:15 – 11:00\n会場：国際会議場/3F\nモデレータ：山
+ 本 桃歌 (JANOG56 プログラム委員)\n\n持ち時間：5分/LT\n登
+ 壇人数：1人/LT (通訳を除く)\n\n発表内容：過去の JANOG プ
+ ログラムに言及するもの。\n発表方法：会場での現地登
+ 壇。資料投影に使う PC 端末をご持参ください。\n発表言
+ 語：日本語\n※日本語以外での発表の場合は、応募者側
+ で日本語への通訳をお願いいたします。\n\nオンライン
+ 配信：本プログラムはライブストリーミング配信、およ
+ び本会議終了後のアーカイブ配信が予定されています\n\
+ n# 過去プログラムへの返答 LT への応募と選考について\n
+ ## 募集期間\n\n募集開始：2025年 6月 2日 (月) 12:00 [JST]\n募
+ 集終了：2025年 6月27日 (金) 23:59 [JST]\n\n採用数：最大 5枠\
+ n\n## 応募方法\n\nたくさんのご応募ありがとうございま
+ した。\n\n## 選考・公開投票について\n\n応募数が採用数
+ を超えたため、JANOGer の皆さんによる 1週間の公開投票
+ を行いました。\n\n採用LTについては以下を参照ください
+ 。\n過去プログラムへの返答 LT 公開投票 – JANOG56 Meeting 
+ in Matsue\n\n投票開始：2025年 7月 1日 (火) 12:00 [JST]\n投票終
+ 了：2025年 7月 7日 (月) 23:59 [JST]\n\n投票は終了しました。
+ たくさんの投票ありがとうございました。\n\n得票数が
+ 多い順に採用を決定します。\n\n## 応募を検討されてい
+ る方へ\n\n発表タイトル、発表概要、言及する過去プロ
+ グラムを元に公開投票を行います。\n公開投票に際して
+ 、応募者のプロフィールは公開されません。\n投票終了
+ 後、採用された方のプロフィール (氏名・所属) が発表
+ 内容と共に公開されます。\n\n# 留意事項\n\n- JApanNetwork Op
+ erators’ Group Policy に基づき、営業活動が目的と思われる
+ 発表はできません。\n- JANOG行動規範 に基づき、あらゆ
+ る嫌がらせや誹謗中傷、反社会的行為を含む発表はお断
+ りします。\n- 応募内容に含まれる個人情報は、JANOG56 プ
+ ログラム募集目的で使用します。\n- ご応募をいただい
+ た時点で、JANOG における個人情報取扱ポリシー に同意
+ いただいたものとします。\n- 会場近くの宿泊施設は空
+ 室が少ない模様です。応募の際は宿泊先または交通手段
+ を確保いただくようお願いします。\n\n# よくある質問\n\
+ nQ1. 応募する人は、当時の登壇者と同一である必要があ
+ りますか？\nA1. いいえ。当時の登壇を見て何か行動した
+ 人すべてが対象です。もちろん御本人の応募も大歓迎で
+ す。\n\nQ2. 他のライトニングトークにも応募できますか
+ ？\nA2. はい、同一人物が複数の LT に応募できます。た
+ だしそれぞれのテーマに沿った応募をお願いします。\n\
+ nQ3. リモートで登壇できますか？\nA3. いいえ、リモート
+ 登壇の環境を用意していません。現地へお越しの上ご登
+ 壇ください。\n\nその他、ご不明な点がございましたら m
+ eeting-56[at]janog.gr.jp までお問い合わせください。
+LOCATION:国際会議場/3F
 URL:https://www.janog.gr.jp/meeting/janog56/reply-lt/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T063619Z
-LAST-MODIFIED:20250527T063619Z
-DTSTAMP:20250527T063619Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:ba162512-0ed9-421a-b172-b16b9411887f
-SUMMARY:伝送装置における障害対応自動化の取り組み🎥 - 
- 小紫 慎哉(ソフトバンク株式会社)、萩原 賢治(ソフトバ
- ンク株式会社)、甲斐 龍之介(ソフトバンク株式会社)
-ATTACH:
+SUMMARY:伝送装置における障害対応自動化の取り組み📡
+ 📼 - 小紫 慎哉(ソフトバンク株式会社)、萩原 賢治(ソフ
+ トバンク株式会社)、甲斐 龍之介(ソフトバンク株式会社
+ )
 CATEGORIES:大展示場1/1F
-CATEGORIES:🎥ストリーミング＆アーカイブ
+CATEGORIES:📡📼ストリーミング＆アーカイブ
 DTSTART;TZID=Asia/Tokyo:20250731T111500
 DTEND;TZID=Asia/Tokyo:20250731T120000
 DESCRIPTION:# 概要\n\n伝送装置(WDM)で障害が発生した場合、N
@@ -1065,9 +1120,9 @@ DESCRIPTION:# 概要\n\n伝送装置(WDM)で障害が発生した場合、N
  、熟練のスキルを落とし込む形で障害対応の自動化に取
  り組んでいます。\n\n本発表では(あまり語られることの
  ない？)伝送装置(WDM)の自動化に関して、以下の取り組み
- についてお話します。\n\n    マルチベンダー環境におけ
- るアラーム監視画面の統合\n    RCA(Root Cause Analysis)による
- アラーム集約\n    正常性確認の自動化\n    ダッシュボー
+ についてお話します。\n\n1. マルチベンダー環境におけ
+ るアラーム監視画面の統合\n2. RCA(Root Cause Analysis)による
+ アラーム集約\n3. 正常性確認の自動化\n4. ダッシュボー
  ドによる情報集約\n\n最後に今後の展望として、ダッシ
  ュボード活用によるIPレイヤーとの業務融合の可能性に
  ついてお話します。\n\n# 議論ポイント\n\n■伝送装置障
@@ -1082,21 +1137,20 @@ DESCRIPTION:# 概要\n\n伝送装置(WDM)で障害が発生した場合、N
  用は今後どうなっていくと考えますか？\n・OpenZR+などで
  機能分離されていくが、その際の運用はどうしていくか
  \n-OpenZR+(トランシーバー)の保守はIP担当？伝送担当？
-LOCATION:大展示場1/1F(〒690-0826 島根県松江市学園南1丁目2-1
-  くにびきメッセ)
+LOCATION:大展示場1/1F
 URL:https://www.janog.gr.jp/meeting/janog56/auto-operation/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T064023Z
-LAST-MODIFIED:20250527T064023Z
-DTSTAMP:20250527T064023Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:9e2f2605-bd63-4f9f-ac7f-9bda349de024
 SUMMARY:モバイルに固定IPを求めるのは間違っているだろ
- うか🎥 - 國友 宏一郎(NTTドコモ)、奥田 兼三(NTTドコモ)
-ATTACH:
+ うか📡📼 - 國友 宏一郎(NTTドコモ)、奥田 兼三(NTTドコ
+ モ)
 CATEGORIES:多目的ホール/1F
-CATEGORIES:🎥ストリーミング＆アーカイブ
+CATEGORIES:📡📼ストリーミング＆アーカイブ
 DTSTART;TZID=Asia/Tokyo:20250731T111500
 DTEND;TZID=Asia/Tokyo:20250731T120000
 DESCRIPTION:# 概要\n\nモバイルネットワークで固定IPアドレ
@@ -1123,21 +1177,19 @@ DESCRIPTION:# 概要\n\nモバイルネットワークで固定IPアドレ
  望、可用性についてどのような要件や希望があるか？\n
  等についてについてディスカッションしたいと考えてい
  ます。
-LOCATION:多目的ホール/1F(〒690-0826 島根県松江市学園南1丁
- 目2-1 くにびきメッセ)
+LOCATION:多目的ホール/1F
 URL:https://www.janog.gr.jp/meeting/janog56/fixedip-mobile/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T064151Z
-LAST-MODIFIED:20250527T064151Z
-DTSTAMP:20250527T064151Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:77eeda95-6080-41d6-bf35-b91fb84f193b
 SUMMARY:⽣成AIファーストなネットワークエンジニアリン
- グを⽬指して🎥 - 江川 潤(株式会社MIXI)
-ATTACH:
+ グを⽬指して📡📼 - 江川 潤(株式会社MIXI)
 CATEGORIES:国際会議場/3F
-CATEGORIES:🎥ストリーミング＆アーカイブ
+CATEGORIES:📡📼ストリーミング＆アーカイブ
 DTSTART;TZID=Asia/Tokyo:20250731T111500
 DTEND;TZID=Asia/Tokyo:20250731T120000
 DESCRIPTION:# 概要\n\n・JANOGでも⽣成AIの活⽤が本格的に議
@@ -1153,23 +1205,21 @@ DESCRIPTION:# 概要\n\n・JANOGでも⽣成AIの活⽤が本格的に議
  成AIを活用していくためにやるべきことは何か？\n・今
  後、⽣成AIに置き換えられること、逆に置き換えられな
  いことはそれぞれ何だと思いますか？
-LOCATION:国際会議場/3F(〒690-0826 島根県松江市学園南1丁目2
- -1 くにびきメッセ)
+LOCATION:国際会議場/3F
 URL:https://www.janog.gr.jp/meeting/janog56/ai-first/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T064307Z
-LAST-MODIFIED:20250527T064307Z
-DTSTAMP:20250527T064307Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:86d8170f-0ee4-4253-8b57-16700a72e20d
-SUMMARY:経路ハイジャックに一撃、RPKI ROA🎥 - 松崎 吉伸(
- 株式会社インターネットイニシアティブ)、川端 宏生(一
- 般社団法人日本ネットワークインフォメーションセンタ
- ー)
-ATTACH:
+SUMMARY:経路ハイジャックに一撃、RPKI ROA📡📼 - 松崎 吉
+ 伸(株式会社インターネットイニシアティブ)、川端 宏生
+ (一般社団法人日本ネットワークインフォメーションセ
+ ンター)
 CATEGORIES:大展示場1/1F
-CATEGORIES:🎥ストリーミング＆アーカイブ
+CATEGORIES:📡📼ストリーミング＆アーカイブ
 DTSTART;TZID=Asia/Tokyo:20250731T131500
 DTEND;TZID=Asia/Tokyo:20250731T141500
 DESCRIPTION:# 概要\n\n2024年の年末に、日本の組織に分配さ
@@ -1187,18 +1237,17 @@ DESCRIPTION:# 概要\n\n2024年の年末に、日本の組織に分配さ
  ハイジャック方式だったので、検出への注意\n・社内で
  のみ使っているIPアドレスへの対応\n・RPKIへの依存度が
  高まる中、安定運用の手法
-LOCATION:大展示場1/1F(〒690-0826 島根県松江市学園南1丁目2-1
-  くにびきメッセ)
+LOCATION:大展示場1/1F
 URL:https://www.janog.gr.jp/meeting/janog56/rpki/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T064450Z
-LAST-MODIFIED:20250527T064450Z
-DTSTAMP:20250527T064450Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:7e97703f-ee74-4c67-a382-a0e74adbd882
 SUMMARY:AIがどうNWの運用を変えてくれそうか?予知そして
- 理想のダッシュボード🎥📜 - 嶋 勝也(シスコシステム
+ 理想のダッシュボード📼📜 - 嶋 勝也(シスコシステム
  ズ合同会社)
 ATTACH:https://www.janog.gr.jp/meeting/janog56/wp-content/uploads/2025/05/A
  I%E3%81%8C%E3%81%A9%E3%81%86NW%E3%81%AE%E9%81%8B%E7%94%A8%E3%82%92%E5%A4%89
@@ -1207,7 +1256,7 @@ ATTACH:https://www.janog.gr.jp/meeting/janog56/wp-content/uploads/2025/05/A
  3%83%E3%82%B7%E3%83%A5%E3%83%9C%E3%83%BC%E3%83%89_%E5%B6%8B%E3%81%95%E3%82%
  93.pdf
 CATEGORIES:多目的ホール/1F
-CATEGORIES:🎥ストリーミング＆アーカイブ
+CATEGORIES:📼アーカイブ
 CATEGORIES:📜公開資料
 DTSTART;TZID=Asia/Tokyo:20250731T131500
 DTEND;TZID=Asia/Tokyo:20250731T141500
@@ -1228,22 +1277,20 @@ DESCRIPTION:# 概要\n\n本発表では、ネットワーク運用者が抱
  ダッシュボードって何があれば完成しますか？\n– NW運
  用において予兆などのAI活用って何やってますか？\n– 
  それの目的は？稼働削減？NW運用者の地位向上？
-LOCATION:多目的ホール/1F(〒690-0826 島根県松江市学園南1丁
- 目2-1 くにびきメッセ)
+LOCATION:多目的ホール/1F
 URL:https://www.janog.gr.jp/meeting/janog56/dashboard/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T065050Z
-LAST-MODIFIED:20250527T065050Z
-DTSTAMP:20250527T065050Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:65ada533-9b81-4702-9681-c3f110bb8745
 SUMMARY:生成AIインフラを構築してわかったケーブリング
- の重要性🎥 - 井上 喬視(さくらインターネット株式会社
- )、菊地 秀夫(株式会社フジクラ)
-ATTACH:
+ の重要性📡📼 - 井上 喬視(さくらインターネット株式
+ 会社)、菊地 秀夫(株式会社フジクラ)
 CATEGORIES:国際会議場/3F
-CATEGORIES:🎥ストリーミング＆アーカイブ
+CATEGORIES:📡📼ストリーミング＆アーカイブ
 DTSTART;TZID=Asia/Tokyo:20250731T131500
 DTEND;TZID=Asia/Tokyo:20250731T141500
 DESCRIPTION:# 概要\n\n生成AIの普及に伴い、データセンター
@@ -1262,24 +1309,21 @@ DESCRIPTION:# 概要\n\n生成AIの普及に伴い、データセンター
  ような議論ができればと思います。\n\n# 議論ポイント\n\
  n- ケーブリング設計における課題\n- ケーブリング戦略
  について\n- 運用に関する課題 (ケーブルのラベリング、
- トラブルシュート時の対応など)
-LOCATION:国際会議場/3F(〒690-0826 島根県松江市学園南1丁目2
- -1 くにびきメッセ)
+ トラブルシュート時の対応など）
+LOCATION:国際会議場/3F
 URL:https://www.janog.gr.jp/meeting/janog56/cabledesign/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T065227Z
-LAST-MODIFIED:20250527T065227Z
-DTSTAMP:20250527T065227Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:0d569224-74e9-4d42-8468-412347c30f37
-SUMMARY:大規模災害発生時における通信事業者連携🎥🤐 -
-  吉田 友哉(NTTコミュニケーションズ)、高見澤 信弘(Jス
- トリーム)、高嶋 隆一(LINEヤフー株式会社)
-ATTACH:
+SUMMARY:大規模災害発生時における通信事業者連携📡📼 -
+  吉田 友哉(NTTドコモビジネス)、高見澤 信弘(Jストリー
+ ム)、高嶋 隆一(LINEヤフー株式会社)
 CATEGORIES:大展示場1/1F
-CATEGORIES:🎥ストリーミング＆アーカイブ
-CATEGORIES:🤐オフレコ
+CATEGORIES:📡📼ストリーミング＆アーカイブ
 DTSTART;TZID=Asia/Tokyo:20250731T143000
 DTEND;TZID=Asia/Tokyo:20250731T153000
 DESCRIPTION:# 概要\n\n南海トラフ地震や首都直下地震は、向
@@ -1299,20 +1343,18 @@ DESCRIPTION:# 概要\n\n南海トラフ地震や首都直下地震は、向
  ておくべき事項と現状\n・東京、大阪以外への設備やNOC
  の分散配置をする上での課題\n・地方での運用人材の確
  保と切り替えの工夫\n・災害時の連携手段について事前
- に取り決めておくと助かる事項について\n他。。
-LOCATION:大展示場1/1F(〒690-0826 島根県松江市学園南1丁目2-1
-  くにびきメッセ)
+ に取り決めておくと助かる事項について
+LOCATION:大展示場1/1F
 URL:https://www.janog.gr.jp/meeting/janog56/disaster/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T065356Z
-LAST-MODIFIED:20250527T065356Z
-DTSTAMP:20250527T065356Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:d10aa668-4c69-4434-b2c4-d487155e89c1
 SUMMARY:2024~2025年末年始にDDoSと戦った人の交換会リターン
  ズ🤐 - 田島 弘隆(Akamai Technologies\, Inc.)
-ATTACH:
 CATEGORIES:多目的ホール/1F
 CATEGORIES:🤐オフレコ
 DTSTART;TZID=Asia/Tokyo:20250731T143000
@@ -1320,38 +1362,36 @@ DTEND;TZID=Asia/Tokyo:20250731T153000
 DESCRIPTION:# 概要\n\n2024~2025年にかけた年末年始に発生した
  DDoSは一般の報道でも大きく取り上げられました。\n我々
  はインシデントレスポンスのプレイヤーとして対応をし
- ましたが、本件について傷を舐め合う情報交換のBoF@JANOG
- 55でこじんまりと開催したところ予想以上に反響があり
- ました。\nその後もDDoSは現在進行系で発生し続け、また
- 分析も進みました。DDoSに対抗するには攻撃通信を緩和
- するためのテクニカルな範囲で収まるものでなく、運用
- 体制の整備や偉い人などを巻き込んで総力戦で戦う必要
- があることを心底実感しました。\n\nそのあたりのナレ
- ッジをシェアしつつ会場の皆さんと議論を深めたいと思
- います。\n\nTopics\n年末年始の攻撃発生状況サマリー\nネ
- ットワーク攻撃方面(おもにL4以下の話)\nWeb攻撃方面(お
- もにL7の話)\nマネージメントの話(おもにL8以上の話)\nま
- とめ\n\n# 議論ポイント\n\n(1)DDoSの教科書的ナレッジとミ
- ーが見聞きしたものとのギャップについて\n(2)一般的に
- 語られているDDoS対応のベストプラクティスとやらにつ
- いて物申す\n(3)エンジニアだけではどうにもならないイ
- ンシデント管理について一言言わせろ(もちろんポジテ
- ィブな方向へ)
-LOCATION:多目的ホール/1F(〒690-0826 島根県松江市学園南1丁
- 目2-1 くにびきメッセ)
+ ましたが、本件について~~傷を舐め合う~~情報交換のBoF@J
+ ANOG55でこじんまりと開催したところ予想以上に反響があ
+ りました。\nその後もDDoSは現在進行系で発生し続け、ま
+ た分析も進みました。DDoSに対抗するには攻撃通信を緩
+ 和するためのテクニカルな範囲で収まるものでなく、運
+ 用体制の整備や偉い人などを巻き込んで総力戦で戦う必
+ 要があることを心底実感しました。\n\nそのあたりのナ
+ レッジをシェアしつつ会場の皆さんと議論を深めたいと
+ 思います。\n\nTopics\n年末年始の攻撃発生状況サマリー\n
+ ネットワーク攻撃方面(おもにL4以下の話)\nWeb攻撃方面(
+ おもにL7の話)\nマネージメントの話(おもにL8以上の話)\n
+ まとめ\n\n# 議論ポイント\n\n(1)DDoSの教科書的ナレッジと
+ ミーが見聞きしたものとのギャップについて\n(2)一般的
+ に語られているDDoS対応のベストプラクティスとやらに
+ ついて物申す\n(3)エンジニアだけではどうにもならない
+ インシデント管理について一言言わせろ(もちろんポジ
+ ティブな方向へ)
+LOCATION:多目的ホール/1F
 URL:https://www.janog.gr.jp/meeting/janog56/ddos/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T065500Z
-LAST-MODIFIED:20250527T065500Z
-DTSTAMP:20250527T065500Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:6d4c4aab-221c-40df-b9a6-eaf993cb3f7a
-SUMMARY:AI Agent によるDC運用自動化の実装と課題🎥 - 岡田 
- 嘉(LINEヤフー株式会社)、宮城 勝(LINEヤフー株式会社)
-ATTACH:
+SUMMARY:AI Agent によるDC運用自動化の実装と課題📡📼 - 岡
+ 田 嘉(LINEヤフー株式会社)、宮城 勝(LINEヤフー株式会社)
 CATEGORIES:国際会議場/3F
-CATEGORIES:🎥ストリーミング＆アーカイブ
+CATEGORIES:📡📼ストリーミング＆アーカイブ
 DTSTART;TZID=Asia/Tokyo:20250731T143000
 DTEND;TZID=Asia/Tokyo:20250731T153000
 DESCRIPTION:# 概要\n\n弊社内の旧YJのDCネットワークでは自
@@ -1362,58 +1402,56 @@ DESCRIPTION:# 概要\n\n弊社内の旧YJのDCネットワークでは自
  面しました。そこで、AIエージェントを活用し、アラー
  ト対応の「ホボゼロ」を目指しました。本発表では、そ
  の設計、試験過程で検討した事項や得られた結果を共有
- いたします。\n\n1.アラート対応、メンテナンスのゼロタ
- ッチへの試み\n弊社では２年ほど前からアラート対応、
- メンテナンス対応のゼロタッチ（リモートオペレータの
- ゼロタッチ）を目指し自動化ツールの開発に取り組んで
- きました。その成功と失敗、スクリプトベースの自動化
- からAIエージェントの実装を目指すにいたった動機を共
- 有します。\n\n2. MCPは便利なのか？\nMCP（Model Context Protoco
- l）はAIエージェントの拡張インタフェースとして最近急
- 速に普及してきたプロトコルです。\n弊社でのAIエージ
- ェントの作成においても、AIエージェントと社内システ
- ム・装置・DBとの接続にMCPを使用しています。\n汎用MCP
- と専用MCPによる対応スコアの比較、MCPと旧来のプロンプ
- トパース拡張の開発工数の差、MCPを用いた設計について
- 得られた知見を共有します。\n\n3. 自分で進化するAIを作
- ってみる\n試験段階で既存のLLMではNW装置に対する知識
- のブレが大きく、対応が不十分なもの、過剰なもの、ま
- た対応のブレが問題として見つかりました。\n過去に発
- 生したログと対応履歴、ベンダーへの問い合わせ履歴や
- 問い合わせの傍聴から、対応手順を自動で手順化、ルー
- ル化する実装を進めています。\nエージェントがこの手
- 順書を参考にすることにより、対応精度の向上を目指す
- とともに、人間によるAIの対応の監査を容易にする事も
- 目指しています。\nその仕組と実装についてご紹介しま
- す。\n\n4. 実際に動かして見た初見と成果\n実際に6月後
- 半頃より商用NWのアラート対応での導入試験を行う計画
- です。\nこのアラートの一次対応をAIに任せた試験の結
- 果、成功した点や問題点、今後の方針について共有しま
- す。\n\n# 議論ポイント\n\nこのセッションを通じて、AIが
- アラート対応を行う未来について議論を深めたいと思い
- ます。上記の結果を踏まえ、皆さんの会社ではAIにアラ
- ート対応を任せられるのか、それとも時期尚早なのかを
- 考察します。また、AIにアラート対応を行わせる中で見
- えた問題について、参加者の皆さんの組織での解決策を
- 探ります。果たして、AIにアラート対応を任せる世界は
- 私たちにとって幸せなのでしょうか。
-LOCATION:国際会議場/3F(〒690-0826 島根県松江市学園南1丁目2
- -1 くにびきメッセ)
+ いたします。\n\n1. アラート対応、メンテナンスのゼロ
+ タッチへの試み\n弊社では２年ほど前からアラート対応
+ 、メンテナンス対応のゼロタッチ（リモートオペレータ
+ のゼロタッチ）を目指し自動化ツールの開発に取り組ん
+ できました。その成功と失敗、スクリプトベースの自動
+ 化からAIエージェントの実装を目指すにいたった動機を
+ 共有します。\n\n2. MCPは便利なのか？\nMCP（Model Context Prot
+ ocol）はAIエージェントの拡張インタフェースとして最近
+ 急速に普及してきたプロトコルです。\n弊社でのAIエー
+ ジェントの作成においても、AIエージェントと社内シス
+ テム・装置・DBとの接続にMCPを使用しています。\n汎用MC
+ Pと専用MCPによる対応スコアの比較、MCPと旧来のプロン
+ プトパース拡張の開発工数の差、MCPを用いた設計につい
+ て得られた知見を共有します。\n\n3. 自分で進化するAIを
+ 作ってみる\n試験段階で既存のLLMではNW装置に対する知
+ 識のブレが大きく、対応が不十分なもの、過剰なもの、
+ また対応のブレが問題として見つかりました。\n過去に
+ 発生したログと対応履歴、ベンダーへの問い合わせ履歴
+ や問い合わせの傍聴から、対応手順を自動で手順化、ル
+ ール化する実装を進めています。\nエージェントがこの
+ 手順書を参考にすることにより、対応精度の向上を目指
+ すとともに、人間によるAIの対応の監査を容易にする事
+ も目指しています。\nその仕組と実装についてご紹介し
+ ます。\n\n4. 実際に動かして見た初見と成果\n実際に6月
+ 後半頃より商用NWのアラート対応での導入試験を行う計
+ 画です。\nこのアラートの一次対応をAIに任せた試験の
+ 結果、成功した点や問題点、今後の方針について共有し
+ ます。\n\n# 議論ポイント\n\nこのセッションを通じて、AI
+ がアラート対応を行う未来について議論を深めたいと思
+ います。上記の結果を踏まえ、皆さんの会社ではAIにア
+ ラート対応を任せられるのか、それとも時期尚早なのか
+ を考察します。また、AIにアラート対応を行わせる中で
+ 見えた問題について、参加者の皆さんの組織での解決策
+ を探ります。果たして、AIにアラート対応を任せる世界
+ は私たちにとって幸せなのでしょうか。
+LOCATION:国際会議場/3F
 URL:https://www.janog.gr.jp/meeting/janog56/dc-ai-agent/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T065635Z
-LAST-MODIFIED:20250527T065635Z
-DTSTAMP:20250527T065635Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:5c9c334b-7458-48b6-b5d3-d90cd08a6f57
 SUMMARY:ただものだんだん、NOC茶会！ 〜せっつい故障も今
  日は一服 ご縁で開く運用の未来〜🤐 - 仲島 悠平(ソフ
  トバンク株式会社)、川俣 陽(スカパーJSAT株式会社)、山
  田 隼斗(株式会社NTTフィールドテクノ)、池田 仁(ソフト
  バンク株式会社)、長谷川 秀寿(ソニーネットワークコミ
- ュニケーションズ株式会社)
-ATTACH:
+ ュニケーションズ株式会社)山口 司、(株式会社ドコモCS)
 CATEGORIES:大展示場1/1F
 CATEGORIES:🤐オフレコ
 DTSTART;TZID=Asia/Tokyo:20250731T154500
@@ -1438,31 +1476,30 @@ DESCRIPTION:# 概要\n\n前回のJANOG55@Kyotoで行われた[「おいで
  す。\n\n# 議論ポイント\n\n本セッションは主に下記のよ
  うな事柄について、パネル形式でディスカッションする
  予定です。\n\n- 障害対応時の対応\n- NOC全体の課題感\n- N
- OCの一員としてとして必要スキルやマインド\n- 自動化と
- スキル継承\n- 最新技術との付き合い方\n- 正直、NOCって
- …\n\nなお、上記のテーマに限らず、ご来場の方からの
- ご質問やご意見もディスカッションのテーマとして非常
- に強く歓迎します。\nNOCをはじめ、通信に携わるすべて
- の方のためになるような議論によって、みなさんともご
- 縁が繋がることを目指します！
-LOCATION:大展示場1/1F(〒690-0826 島根県松江市学園南1丁目2-1
-  くにびきメッセ)
+ OCの一員として必要なスキルやマインド\n- 自動化とスキ
+ ル継承\n- 最新技術との付き合い方\n- 正直、NOCって…\n\n
+ なお、上記のテーマに限らず、ご来場の方からのご質問
+ やご意見もディスカッションのテーマとして非常に強く
+ 歓迎します。\nNOCをはじめ、通信に携わるすべての方の
+ ためになるような議論によって、みなさんともご縁が繋
+ がることを目指します！
+LOCATION:大展示場1/1F
 URL:https://www.janog.gr.jp/meeting/janog56/noc/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T065816Z
-LAST-MODIFIED:20250527T065816Z
-DTSTAMP:20250527T065816Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:891bed3f-ca0f-4529-be1d-97ece9881cfa
 SUMMARY:集合住宅インターネットの"今"と"これから" 〜ホ
- ワイトペーパーから見える課題と展望〜 - 高田 彩生(NTT
- 東日本)、石田 慶樹(一般社団法人集合住宅デジタル高度
- 化協議会)、中田 明治(株式会社ファミリーネット・ジャ
- パン)、高島 正宜(株式会社ギガプライズ)、下野 朋志(NTT
- メディアサプライ株式会社)
-ATTACH:
+ ワイトペーパーから見える課題と展望〜🤐 - 高田 彩生(
+ NTT東日本)、石田 慶樹(一般社団法人集合住宅デジタル高
+ 度化協議会)、中田 明治(株式会社ファミリーネット・ジ
+ ャパン)、高島 正宜(株式会社ギガプライズ)、下野 朋志(
+ NTTメディアサプライ株式会社)
 CATEGORIES:多目的ホール/1F
+CATEGORIES:🤐オフレコ
 DTSTART;TZID=Asia/Tokyo:20250731T154500
 DTEND;TZID=Asia/Tokyo:20250731T170000
 DESCRIPTION:# 概要\n\n集合住宅におけるインターネット環境
@@ -1519,22 +1556,21 @@ DESCRIPTION:# 概要\n\n集合住宅におけるインターネット環境
  て技術者が貢献できることは何か？\nネットワーク設計
  ・監視・サポートのベストプラクティス共有\nトラブル
  のナレッジ共有、共同での調査・提言活動の可能性
-LOCATION:多目的ホール/1F(〒690-0826 島根県松江市学園南1丁
- 目2-1 くにびきメッセ)
+LOCATION:多目的ホール/1F
 URL:https://www.janog.gr.jp/meeting/janog56/home-internet/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T060012Z
-LAST-MODIFIED:20250527T060012Z
-DTSTAMP:20250527T060012Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:85e1ea89-2613-43e0-a84b-22245cff4b60
 SUMMARY:プライベートクラウドのデータセンターネットワ
- ークを作り直して得た知見の共有🎥 - 深牧 紀彦(KDDI株
- 式会社)、寺澤 大智(KDDI株式会社)、辻 広志(KDDI株式会社)
-ATTACH:
+ ークを作り直して得た知見の共有📡📼 - 深牧 紀彦(KDDI
+ 株式会社)、寺澤 大智(KDDI株式会社)、辻 広志(KDDI株式会
+ 社)
 CATEGORIES:国際会議場/3F
-CATEGORIES:🎥ストリーミング＆アーカイブ
+CATEGORIES:📡📼ストリーミング＆アーカイブ
 DTSTART;TZID=Asia/Tokyo:20250731T154500
 DTEND;TZID=Asia/Tokyo:20250731T170000
 DESCRIPTION:# 概要\n\nKDDIではOpenStackを活用した全社共通の
@@ -1576,81 +1612,75 @@ DESCRIPTION:# 概要\n\nKDDIではOpenStackを活用した全社共通の
  自律的仮想ネットワーキングhttps://www.janog.gr.jp/meeting/jano
  g55/nfv/\n[^2]: JANOG 52 – SONiC ZTPでデータセンターネットワ
  ークを作った話https://www.janog.gr.jp/meeting/janog52/sonicztp/\n\n#
-  議論ポイント\n\n## テクニカル\n– DAC/トランシーバ/NIC
- の品質問題とその対処\n– DCNW内でのIP Anycastにおけるト
- ラブル、トラブルシューティング\n– IPv6の利用の推進
- 、無理にIPv6使わなくてもいいじゃないかというご意見
- への対処\n– ネットワークコントローラ、分散 vs 集中
- （どういう機能分担がよいか）\n– SONiC/ホワイトボック
- スの活用方法、ホワイトボックス時代に求められるスキ
- ルの変化（NWエンジニアもLinuxの知識が必要になる）\n\n#
- # 非テクニカル\n– 「巨大プロジェクト」との向き合い
- 方（ステークホルダ、レポーティング）\n– 挑戦や変化
- に(伴い問題が発生することに)対するネガティブな反応\
- n– ブラックボックスな製品の中で起こる問題への向き
+  議論ポイント\n## テクニカル\n– DAC/トランシーバ/NICの
+ 品質問題とその対処\n– DCNW内でのIP Anycastにおけるトラ
+ ブル、トラブルシューティング\n– IPv6の利用の推進、
+ 無理にIPv6使わなくてもいいじゃないかというご意見へ
+ の対処\n– ネットワークコントローラ、分散 vs 集中（
+ どういう機能分担がよいか）\n– SONiC/ホワイトボックス
+ の活用方法、ホワイトボックス時代に求められるスキル
+ の変化（NWエンジニアもLinuxの知識が必要になる）\n\n## 
+ 非テクニカル\n– 「巨大プロジェクト」との向き合い方
+ （ステークホルダ、レポーティング）\n– 挑戦や変化に
+ (伴い問題が発生することに)対するネガティブな反応\n
+ – ブラックボックスな製品の中で起こる問題への向き
  合い方\n– 人材育成、内製への変化（特にネットワーク
  エンジニア）
-LOCATION:国際会議場/3F(〒690-0826 島根県松江市学園南1丁目2
- -1 くにびきメッセ)
+LOCATION:国際会議場/3F
 URL:https://www.janog.gr.jp/meeting/janog56/rebuild-dcnw/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T070139Z
-LAST-MODIFIED:20250527T070139Z
-DTSTAMP:20250527T070139Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:9c02b65e-10d3-4d8d-8b9d-b879375ea896
 SUMMARY:懇親会
-ATTACH:
-CATEGORIES:
 DTSTART;TZID=Asia/Tokyo:20250731T173000
 DTEND;TZID=Asia/Tokyo:20250731T200000
-DESCRIPTION:
 LOCATION:〒690-0852 島根県松江市千鳥町30 ホテル一畑
 URL:https://hotel.ichibata.co.jp/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T075953Z
-LAST-MODIFIED:20250527T075953Z
-DTSTAMP:20250527T075953Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:9ec1ca9d-f2d8-4037-896f-958d8028e2c3
 SUMMARY:開場
-ATTACH:
-CATEGORIES:
+CATEGORIES:大展示場1/1F
+CATEGORIES:多目的ホール/1F
+CATEGORIES:国際会議場/3F
 DTSTART;TZID=Asia/Tokyo:20250801T100000
-DESCRIPTION:
 LOCATION:〒690-0826 島根県松江市学園南1丁目2-1 くにびきメ
  ッセ
 URL:https://www.kunibikimesse.jp/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T070124Z
-LAST-MODIFIED:20250527T070124Z
-DTSTAMP:20250527T070124Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:932c8fcf-1988-4392-ae36-798feb7dc102
 SUMMARY:会場諸注意
-ATTACH:
-CATEGORIES:
+CATEGORIES:大展示場1/1F
+CATEGORIES:多目的ホール/1F
+CATEGORIES:国際会議場/3F
 DTSTART;TZID=Asia/Tokyo:20250801T100000
-DESCRIPTION:
 LOCATION:〒690-0826 島根県松江市学園南1丁目2-1 くにびきメ
  ッセ
-URL:
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T070410Z
-LAST-MODIFIED:20250527T070410Z
-DTSTAMP:20250527T070410Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:8cc23b90-3643-4950-98fa-be95d88bc94e
 SUMMARY:WANネットワークにおける監視の高度化手法: アク
- ティブ監視、テレメトリー、AI技術の活用🎥 - 山岸 祐
- 大(ジュニパーネットワークス株式会社)
-ATTACH:
+ ティブ監視、テレメトリー、AI技術の活用📡📼 - 山岸 
+ 祐大(ジュニパーネットワークス株式会社)
 CATEGORIES:大展示場1/1F
-CATEGORIES:🎥ストリーミング＆アーカイブ
+CATEGORIES:📡📼ストリーミング＆アーカイブ
 DTSTART;TZID=Asia/Tokyo:20250801T101500
 DTEND;TZID=Asia/Tokyo:20250801T110000
 DESCRIPTION:# 概要\n\n近年ではビジネスのネットワークイン
@@ -1685,12 +1715,12 @@ DESCRIPTION:# 概要\n\n近年ではビジネスのネットワークイン
  etry\n・AI/ML技術を組み合わせることで何ができるか
 LOCATION:大展示場1/1F
 URL:https://www.janog.gr.jp/meeting/janog56/wan-monitor/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T070529Z
-LAST-MODIFIED:20250527T070529Z
-DTSTAMP:20250527T070529Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:86146381-dd11-4774-b699-ab5cf2b5a73c
 SUMMARY:宇宙線とネットワーク機器との戦い🤐📜 - 土屋 
  師子生(アリスタネットワークスジャパン合同会社)
@@ -1716,19 +1746,18 @@ DESCRIPTION:# 概要\n\nネットワーク機器を含む電子デバイス
  有
 LOCATION:多目的ホール/1F
 URL:https://www.janog.gr.jp/meeting/janog56/seu/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T070735Z
-LAST-MODIFIED:20250527T070735Z
-DTSTAMP:20250527T070735Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:a3fa7f40-51b5-46a3-a28d-4a7bb0c0ad57
 SUMMARY:閉域網のトランスポートセキュリティって必要？I
- EEE802.1AE MACSecの拡張による柔軟な暗号化の実現🎥 - 鹿志
- 村 康生(Nokia Solutions and Networks Japan G.K.)
-ATTACH:
+ EEE802.1AE MACSecの拡張による柔軟な暗号化の実現📡📼 - 
+ 鹿志村 康生(Nokia Solutions and Networks Japan G.K.)
 CATEGORIES:国際会議場/3F
-CATEGORIES:🎥ストリーミング＆アーカイブ
+CATEGORIES:📡📼ストリーミング＆アーカイブ
 DTSTART;TZID=Asia/Tokyo:20250801T101500
 DTEND;TZID=Asia/Tokyo:20250801T110000
 DESCRIPTION:# 概要\n\n現在ではMACSecは様々な機器に広く実装
@@ -1748,20 +1777,21 @@ DESCRIPTION:# 概要\n\n現在ではMACSecは様々な機器に広く実装
  ってどう考えてますか？
 LOCATION:国際会議場/3F
 URL:鹿志村 康生(Nokia Solutions and Networks Japan G.K.)
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T071138Z
-LAST-MODIFIED:20250527T071138Z
-DTSTAMP:20250527T071138Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:e929b6d7-aa82-4de1-b8d3-cbe8adf2fb42
 SUMMARY:「生成AI(LLM)を活用したパケット・Syslog分析」を大
- 規模NWで実証してみた🎥 - 高野 悠生(NTTアドバンステク
- ノロジ株式会社)、環 大介(NTTアドバンステクノロジ株式
- 会社)、阿部 拓実(NTTアドバンステクノロジ株式会社)
-ATTACH:
+ 規模NWで実証してみた📡📼📴 - 高野 悠生(NTTアドバン
+ ステクノロジ株式会社)、環 大介(NTTアドバンステクノロ
+ ジ株式会社)、阿部 拓実(NTTアドバンステクノロジ株式会
+ 社)
 CATEGORIES:大展示場1/1F
-CATEGORIES:🎥ストリーミング＆アーカイブ
+CATEGORIES:📡📼ストリーミング＆アーカイブ
+CATEGORIES:📴SNSやSlackでの議論や情報共有禁止
 DTSTART;TZID=Asia/Tokyo:20250801T111500
 DTEND;TZID=Asia/Tokyo:20250801T120000
 DESCRIPTION:# 概要\n\n生成AI(LLM)が通信業界問わず大きな技
@@ -1795,19 +1825,18 @@ DESCRIPTION:# 概要\n\n生成AI(LLM)が通信業界問わず大きな技
  ・ログ分析におけるセキュリティはどう担保するか？
 LOCATION:大展示場1/1F
 URL:https://www.janog.gr.jp/meeting/janog56/ai-nwlogs/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T071306Z
-LAST-MODIFIED:20250527T071306Z
-DTSTAMP:20250527T071306Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:b77cf52c-8f08-4dec-9d2e-899dba869ed6
 SUMMARY:AI時代のバックボーンネットワーク：DDBRとスケー
  ルアウトネットワークアーキテクチャの商用化について
  🤐 - 熊木 健二(KDDI株式会社)
-ATTACH:
 CATEGORIES:多目的ホール/1F
-CATEGORIES:🎥ストリーミング＆アーカイブ
+CATEGORIES:🤐オフレコ
 DTSTART;TZID=Asia/Tokyo:20250801T111500
 DTEND;TZID=Asia/Tokyo:20250801T120000
 DESCRIPTION:# 概要\n\nAI技術の急速な普及に伴い、バックボ
@@ -1841,19 +1870,18 @@ DESCRIPTION:# 概要\n\nAI技術の急速な普及に伴い、バックボ
  。
 LOCATION:多目的ホール/1F
 URL:https://www.janog.gr.jp/meeting/janog56/ddbr/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T071415Z
-LAST-MODIFIED:20250527T071415Z
-DTSTAMP:20250527T071415Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:7c5dfb0d-60b3-4dfb-afc7-6955d8c8aaeb
-SUMMARY:5Gコアへのコンテナ活用～俺の彼女(5GC)とクラウド
- ネイティブ思想が修羅すぎる～🎥 - 小原 啓希(株式会社
-  NTTドコモ)、谷川 尚也(株式会社 NTTドコモ)
-ATTACH:
+SUMMARY:5Gコアへのコンテナ活用～5GCとクラウドネイティ
+ ブ思想が修羅場すぎる～📡📼 - 小原 啓希(株式会社 NTT
+ ドコモ)、谷川 尚也(株式会社 NTTドコモ)
 CATEGORIES:国際会議場/3F
-CATEGORIES:🎥ストリーミング＆アーカイブ
+CATEGORIES:📡📼ストリーミング＆アーカイブ
 DTSTART;TZID=Asia/Tokyo:20250801T111500
 DTEND;TZID=Asia/Tokyo:20250801T120000
 DESCRIPTION:# 概要\n\nドコモは、5G専用のコアネットワーク
@@ -1885,20 +1913,19 @@ DESCRIPTION:# 概要\n\nドコモは、5G専用のコアネットワーク
  テナ利用に伴う苦労話などの情報交換
 LOCATION:国際会議場/3F
 URL:https://www.janog.gr.jp/meeting/janog56/5gc-container/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T071526Z
-LAST-MODIFIED:20250527T071526Z
-DTSTAMP:20250527T071526Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:1c09eafe-e24b-45d2-811b-d2ce7dab09b6
 SUMMARY:これからのネットワーク運用に必要なデータって
- 何だろう？ 〜AIと運用データの「縁」〜🎥 - 錦織 康平(
- シスコシステムズ合同会社)、大塚 悠平(シスコシステム
- ズ合同会社)
-ATTACH:
+ 何だろう？ 〜AIと運用データの「縁」〜📡📼 - 錦織 康
+ 平(シスコシステムズ合同会社)、大塚 悠平(シスコシス
+ テムズ合同会社)
 CATEGORIES:大展示場1/1F
-CATEGORIES:🎥ストリーミング＆アーカイブ
+CATEGORIES:📡📼ストリーミング＆アーカイブ
 DTSTART;TZID=Asia/Tokyo:20250801T131500
 DTEND;TZID=Asia/Tokyo:20250801T140000
 DESCRIPTION:# 概要\n\n本発表では今後AIを活用した運用の効
@@ -1939,18 +1966,17 @@ DESCRIPTION:# 概要\n\n本発表では今後AIを活用した運用の効
  取得し、AI運用に向けてどのような準備を行うべきか？
 LOCATION:大展示場1/1F
 URL:https://www.janog.gr.jp/meeting/janog56/nwdata-for-ai/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T071653Z
-LAST-MODIFIED:20250527T071653Z
-DTSTAMP:20250527T071653Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:b9a803e4-20d5-4d0e-b071-c5e3debbe42a
 SUMMARY:つながる安心の裏側：偽基地局から紐解くモバイ
  ル網のセキュリティ対策🤐 - 清水 和人(株式会社NTTドコ
- モ)、谷崎 雄太(NTTコミュニケーションズ株式会社 /（独
- ）情報処理推進機構)
-ATTACH:
+ モ)、谷崎 雄太(NTTドコモビジネス株式会社 /（独）情報
+ 処理推進機構)
 CATEGORIES:多目的ホール/1F
 CATEGORIES:🤐オフレコ
 DTSTART;TZID=Asia/Tokyo:20250801T131500
@@ -1971,18 +1997,17 @@ DESCRIPTION:# 概要\n\n2025年4月のSNS投稿をきっかけに話題と
  する悩み
 LOCATION:多目的ホール/1F
 URL:https://www.janog.gr.jp/meeting/janog56/fake/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T071823Z
-LAST-MODIFIED:20250527T071823Z
-DTSTAMP:20250527T071823Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:2e266937-8a9f-4cea-990b-45ae2b11576a
 SUMMARY:コミュニティ版SONiCをAI/ML基盤適用できるか探る
- 🎥 - 中野 寛二(日本電信電話株式会社)
-ATTACH:
+ 📡📼 - 中野 寛二(日本電信電話株式会社)
 CATEGORIES:国際会議場/3F
-CATEGORIES:🎥ストリーミング＆アーカイブ
+CATEGORIES:📡📼ストリーミング＆アーカイブ
 DTSTART;TZID=Asia/Tokyo:20250801T131500
 DTEND;TZID=Asia/Tokyo:20250801T140000
 DESCRIPTION:# 概要\n\nSONiCはホワイトボックススイッチ向け
@@ -2014,19 +2039,18 @@ DESCRIPTION:# 概要\n\nSONiCはホワイトボックススイッチ向け
  ける技術的・運用的な課題ついて。
 LOCATION:国際会議場/3F
 URL:https://www.janog.gr.jp/meeting/janog56/sonic/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T071941Z
-LAST-MODIFIED:20250527T071941Z
-DTSTAMP:20250527T071941Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:5dd239f7-4e76-4782-a7be-433dfa5ceaf4
 SUMMARY:“自動化やってみた”のその先へ ～KDDIネットワ
- ーク検証の自動化、現場エンジニアの奮闘と学び～🎥 -
-  松久 瑛洋(KDDI株式会社)、中川 亮平(KDDI株式会社)
-ATTACH:
+ ーク検証の自動化、現場エンジニアの奮闘と学び～📡
+ 📼 - 松久 瑛洋(KDDI株式会社)、中川 亮平(KDDI株式会社)
 CATEGORIES:大展示場1/1F
-CATEGORIES:🎥ストリーミング＆アーカイブ
+CATEGORIES:📡📼ストリーミング＆アーカイブ
 DTSTART;TZID=Asia/Tokyo:20250801T141500
 DTEND;TZID=Asia/Tokyo:20250801T150000
 DESCRIPTION:# 概要\n\nKDDIでは多くのお客さまに快適で安定
@@ -2062,17 +2086,19 @@ DESCRIPTION:# 概要\n\nKDDIでは多くのお客さまに快適で安定
  ますか？
 LOCATION:大展示場1/1F
 URL:https://www.janog.gr.jp/meeting/janog56/autoverification/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T072119Z
-LAST-MODIFIED:20250527T072119Z
-DTSTAMP:20250527T072119Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:a88c5751-1364-4895-9e98-cb97a8ef07be
 SUMMARY:警察と通信事業者の協力のホンネ #3🤐 - 森川 慶
- 彦(株式会社KDDIウェブコミュニケーションズ)、小高 照
- 正(一般財団法人日本サイバー犯罪対策センター（JC3）)
-ATTACH:
+ 彦(株式会社KDDIウェブコミュニケーションズ)、東條 な
+ なみ(さくらインターネット株式会社)、廣川 優(GMOペパ
+ ボ株式会社)、鈴木 雄策(NTTドコモビジネスエンジニアリ
+ ング株式会社)、小高 照正(一般財団法人日本サイバー犯
+ 罪対策センター（JC3）)
 CATEGORIES:多目的ホール/1F
 CATEGORIES:🤐オフレコ
 DTSTART;TZID=Asia/Tokyo:20250801T141500
@@ -2098,18 +2124,18 @@ DESCRIPTION:# 概要\n\n過去2回([JANOG54](https://www.janog.gr.jp/meetin
  。
 LOCATION:多目的ホール/1F
 URL:https://www.janog.gr.jp/meeting/janog56/police/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T072239Z
-LAST-MODIFIED:20250527T072239Z
-DTSTAMP:20250527T072239Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:586b47a1-47c5-4990-84a0-2d369487704e
 SUMMARY:システム開発の常識が変わる!? ~MCP で SSoT x LLM を
- 実現したら起きること~🎥 - 大山 裕泰(合同会社DMM.com)
-ATTACH:
+ 実現したら起きること~📡📼 - 大山 裕泰(合同会社DMM.com
+ )
 CATEGORIES:国際会議場/3F
-CATEGORIES:🎥ストリーミング＆アーカイブ
+CATEGORIES:📡📼ストリーミング＆アーカイブ
 DTSTART;TZID=Asia/Tokyo:20250801T141500
 DTEND;TZID=Asia/Tokyo:20250801T150000
 DESCRIPTION:# 概要\n\n我々は[SSoT (Single Source of Truth) によっ
@@ -2150,8 +2176,8 @@ DESCRIPTION:# 概要\n\n我々は[SSoT (Single Source of Truth) によっ
  ）の課題への対処策として、LLM (Large Language Model) に注目
  した。\n\n我々の運用の現場においては、様々なコンテ
  キストの多くの情報が、SSoT を実現する情報管理システ
- ム [Pagoda](https://github.com/dmm-com/pagoda)に集約されている。\
- nPagoda は特定の用途に特化した情報管理システムではな
+ ム[Pagoda](https://github.com/dmm-com/pagoda)に集約されている。\n
+ Pagoda は特定の用途に特化した情報管理システムではな
  く、様々な課題や運用ニーズに対応できるようにするた
  め、全ての情報を正規化した形式で保存する。\nそのた
  め Pagoda を利用するユーザは、ある運用ニーズに応じて
@@ -2203,19 +2229,19 @@ DESCRIPTION:# 概要\n\n我々は[SSoT (Single Source of Truth) によっ
  在であり、議論の的の一つとなると考える。
 LOCATION:国際会議場/3F
 URL:https://www.janog.gr.jp/meeting/janog56/mcp/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T072347Z
-LAST-MODIFIED:20250527T072347Z
-DTSTAMP:20250527T072347Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:0cdf56e0-eb69-40e7-9fd8-61cab84336c9
-SUMMARY:ISPはピアリング戦略をどう考えていくべきか？🎥
-  - 山口 勝司(ビッグローブ株式会社)、大日方 周太(株式
- 会社コミュニティネットワークセンター)
-ATTACH:
+SUMMARY:ISPはピアリング戦略をどう考えていくべきか？📡
+ 📴 - 山口 勝司(ビッグローブ株式会社)、大日方 周太(株
+ 式会社コミュニティネットワークセンター)
 CATEGORIES:大展示場1/1F
-CATEGORIES:🎥ストリーミング＆アーカイブ
+CATEGORIES:📡ストリーミング
+CATEGORIES:📴SNSやSlackでの議論や情報共有禁止
 DTSTART;TZID=Asia/Tokyo:20250801T151500
 DTEND;TZID=Asia/Tokyo:20250801T160000
 DESCRIPTION:# 概要\n\n日本のISPにとってピアリングを取り巻
@@ -2247,97 +2273,187 @@ DESCRIPTION:# 概要\n\n日本のISPにとってピアリングを取り巻
  アリング戦略をどう考えていくべきか？ 」について議
  論できればと思います。\n\n# 議論ポイント\n\nISPのみな
  らずIXPやCDN/コンテンツ事業者の方も交えて以下のよう
- な点について議論できればと考えています。\n\n・どの
- ようなポリシーや戦略でピアリングを行っていますか？
- \n接続方式 (IXP\,PNI\,Cache) をどう選択するかとその基準\n
- トラフィック増加に対して増速の基準\n冗長性に対する
- 考え方\nどの地域(東京/大阪/福岡/海外など)でピアリン
- グするか…など\n・Google社のピアリングポリシー変更に
- よりどのような影響がありますか？\n・Google社のピアリ
- ングポリシー変更の影響がある場合、どのような対策を
- 考えていますか？\n・その他でピアリングで困っている
- ことがありましたら議論できればと思います。
+ な点について議論できればと考えています。\n\n- ピアリ
+ ングを取り巻く状況の変化について各事業者の立場でど
+ のように考えていますか？\n    - どのような影響があり
+ そうか、どう対策していくか、今後の戦略があれば教え
+ て下さい。\n- プライベートピアリング(PNI)が増加するこ
+ とに関して影響はありますか？\n- 多くのASがIXPでのピア
+ リングでトラフィック交換する「ピアリングの時代」は
+ 終焉するでしょうか？\n- 今後も「ピアリングの時代」
+ が続いてくために日本のISPができることはありますか？
 LOCATION:大展示場1/1F
 URL:https://www.janog.gr.jp/meeting/janog56/peering/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T072506Z
-LAST-MODIFIED:20250527T072506Z
-DTSTAMP:20250527T072506Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:8d91835c-d85f-4bc4-a199-66ef250ecabf
 SUMMARY:ライトニングトーク
-ATTACH:
 CATEGORIES:国際会議場/3F
-CATEGORIES:🎥ストリーミング＆アーカイブ
+CATEGORIES:📡📼ストリーミング＆アーカイブ
 DTSTART;TZID=Asia/Tokyo:20250801T151500
 DTEND;TZID=Asia/Tokyo:20250801T160000
-DESCRIPTION:　ライトニングトーク (LT) とは、数名の発表者
- の方に、5分間の短いプレゼンテーションを入れ替わり
- 立ち替わり発表いただくプログラムです。\nこのプログ
- ラムではプレゼンテーションのみで、議論の時間を設け
- ていません。\n\nみなさまのご応募・ご参加をスタッフ
- 一同、心よりお待ちしております。\n\n# 開催# 概要\n\n日
- 時：2025年 8月 1日 (金) 15:15 – 15:45\n会場：国際会議場/3F\
- n\n持ち時間：5分/LT\n登壇人数：1人/LT (通訳を除く)\n\n発
- 表内容：指定なし。\n発表方法：会場での現地登壇。資
- 料投影に使う PC 端末をご持参ください。\n発表言語：日
- 本語\n※日本語以外での発表の場合は、応募者側で日本
- 語への通訳をお願いいたします。\n\nオンライン配信：
- 本プログラムはライブストリーミング配信、および本会
- 議終了後のアーカイブ配信が予定されています\n\n# LT の
- 応募について\n\n## 募集期間\n\n募集開始予定：2025年 6月 
- 2日 (月) 12:00 [JST]\n募集終了予定：2025年 6月27日 (金) 23:59 
- [JST]\n\n採用数：最大 6枠\n採用通知：2025年 6月30日 (月)ま
- でに、応募者宛に電子メールにてお知らせします。\n\n
- 期間中は先着順に選考を行います。採用上限に達した場
- 合、募集は早期終了します。\n\n## 応募方法\n\nGoogle フォ
- ームまたはメールでの受付を予定しています。\n\n- 発表
- タイトル\n- 発表概要\n- 発表資料 ※本番で使用する想定
- でプレゼンテーション資料をご準備ください\n\n以上の
- 提出が必要となりますので、予めお知らせいたします。
- \n\n## 選考方法\n\n次の3つの観点について、5名の審査員
- がそれぞれ15点満点で採点を行います。\n\n- 有益性：技
- 術/運用の観点で日本のネットワークオペレータにとっ
- て有益か? (5点)\n- 話題性：ホットな話題や最近の技術動
- 向に沿っているか？ (5点)\n- 明瞭性：発表の内容や資料
- がわかりやすいか？(5点)\n\n各審査項目の平均点が採用
- 基準を超えると、即時採用となります。\n\n## 審査員\n\n-
-  齋藤 脩愉 (JANOG56 プログラム委員)\n- 高橋 翔 (JANOG56 プ
- ログラム委員)\n- 鈴木 章 (JANOG56 プログラム委員)\n- 小野
-  碧月 (JANOG56 プログラム委員)\n- 相原 一輝 (JANOG56 企画編
- 成委員)\n\n# 留意事項\n\n- JApanNetwork Operators’ Group Policy 
- に基づき、営業活動が目的と思われる発表はできません
- 。\n- JANOG行動規範 に基づき、あらゆる嫌がらせや誹謗
- 中傷、反社会的行為を含む発表はお断りします。\n- 応
- 募内容に含まれる個人情報は、JANOG56 プログラム募集目
- 的で使用します。\n- ご応募をいただいた時点で、JANOG 
- における個人情報取扱ポリシー に同意いただいたもの
- とします。\n- 会場近くの宿泊施設は空室が少ない模様
- です。応募の際は宿泊先または交通手段を確保いただく
- ようお願いします。\n\n# よくある質問\n\nQ1. このライト
- ニングトークはどういうものですか？\nA1. 質疑なし、1
- 人5分間でプレゼンをする一般的な LT セッションです。\
- n\nQ2. 他のライトニングトークにも応募できますか？\nA2.
-  はい、同一人物が複数の LT に応募できます。ただしそ
- れぞれのテーマに沿った応募をお願いします。\n\nQ3. リ
- モートで登壇できますか？\nA3. いいえ、リモート登壇の
- 環境を用意していません。現地へお越しの上ご登壇くだ
- さい。\n\nその他、ご不明な点がございましたら meeting-56
- [at]janog.gr.jp までお問い合わせください。
+DESCRIPTION:ライトニングトーク (LT) とは、数名の発表者の
+ 方に、5分間の短いプレゼンテーションを入れ替わり立
+ ち替わり発表いただくプログラムです。\nこのプログラ
+ ムではプレゼンテーションのみで、議論の時間を設けて
+ いません。\n\n# 開催概要\n\n日時：2025年 8月 1日 (金) 15:15
+  – 15:45\n会場：国際会議場/3F\n\n持ち時間：5分/LT\n登壇
+ 人数：1人/LT (通訳を除く)\n\n発表内容：指定なし\n発表
+ 方法：会場での現地登壇。資料投影に使う PC 端末をご
+ 持参ください。\n発表言語：日本語\n※日本語以外での
+ 発表の場合は、応募者側で日本語への通訳をお願いいた
+ します。\n\nオンライン配信：本プログラムはライブス
+ トリーミング配信、および本会議終了後のアーカイブ配
+ 信が予定されています\n\n# 採用プログラム\n## LT1: BGP malf
+ ormed update/attribute list\n\n発表者：\n土屋 師子生(アリスタ
+ ネットワークスジャパン合同会社)\n発表概要：\nNANOGの
+ メーリングリストで2025年5月20日不正のBGPアップデート
+ によるBGPのセッションリセットが観測されたとの報告が
+ あった。\nRFC7606 Error Handling for BGP UPDATE Messagesは2015年に
+ 改定されたRFCであり、多くの機器で実装されているが、
+ なぜ\nこんな現象が起こったのか。NANOGメーリングリス
+ ト\,Blog https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-
+ reset-incident\nメーカの情報よりまとめてみました。\n応募
+ 資料：\n[BGP malformed update/attribute list](https://www.janog.gr.jp/me
+ eting/janog56/wp-content/uploads/2025/06/lt1_BGP-malformed-updateattribute-
+ list.pdf)\n採点結果：\n有益性: 22(平均 4.4)\n話題性: 23(平均
+  4.6)\n明瞭性: 22(平均 4.4)\n———\nTotal: 67(平均 13.4)\n\n## L
+ T2: 将来光ネットワークにおけるサービス提供形態の検
+ 討\n\n発表者：\n増田 陽(双日テックイノベーション株式
+ 会社)\n発表概要：\n2030年以降の光伝送ネットワークにお
+ いて、クライアントインタフェースの高速化やZR/ZR+とい
+ った長距離対応コヒーレントオプティクスの普及、さら
+ にはAll Photonics Network（APN）の浸透が見込まれる。\n本発
+ 表では、これらの技術トレンドを踏まえた将来のサービ
+ ス提供形態について、特にユーザ拠点からキャリアネッ
+ トワークへの光波長パスの直接収容（トラポンレス構成
+ ）に焦点を当て、2つの提供パターンを比較検討する。\n
+ 導入メリットとともに、運用上の課題についても整理し
+ 、適用領域の考察を行う。\nまた、IOWN構想やIPoverDWDMの
+ 実例も交え、今後のネットワーク設計のヒントとなる内
+ 容を届ける。\n応募資料：\n[将来光ネットワークにおけ
+ るサービス提供形態の検討](https://www.janog.gr.jp/meeting/janog
+ 56/wp-content/uploads/2025/06/lt2_%E5%B0%86%E6%9D%A5%E5%85%89%E3%83%8D%E3%8
+ 3%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8
+ B%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E6%8F%90%E4%BE%9B%E5%BD%A2%E6%85%8B%E
+ 3%81%AE%E6%A4%9C%E8%A8%8E.pdf)\n採点結果：\n有益性: 18(平均 3.6)\
+ n話題性: 22(平均 4.4)\n明瞭性: 16(平均 3.2)\n———\nTotal: 56
+ (平均 11.2)\n\n## LT3: ネットワークにおけるサイレント故
+ 障対策 ～備えあれば憂いなし～\n\n発表者：\n佐々木 暢
+ 平(KDDI株式会社)\n発表概要：\n高品質のネットワークを
+ 提供するに当たり、サイレント故障への対策は大きな課
+ 題です。\nKDDIではサイレント故障対策について、「開発
+ ・設計・運用」の三段階の考え方を定義しています。\n
+ 本発表では、実際に導入しているサイレント故障対策を
+ 紹介すると共に、\n「起こり得るサイレント故障へどこ
+ まで対策できるか」という議論につなげたいと考えてい
+ ます。\n応募資料：\n[ネットワークにおけるサイレント
+ 故障対策 ～備えあれば憂いなし～](https://www.janog.gr.jp/mee
+ ting/janog56/wp-content/uploads/2025/06/lt3_%E3%83%8D%E3%83%83%E3%83%88%E3%
+ 83%AF%E3%83%BC%E3%82%AF%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%82%B5%E3%82%
+ A4%E3%83%AC%E3%83%B3%E3%83%88%E6%95%85%E9%9A%9C%E5%AF%BE%E7%AD%96-%EF%BD%9E
+ %E5%82%99%E3%81%88%E3%81%82%E3%82%8C%E3%81%B0%E6%86%82%E3%81%84%E3%81%AA%E3
+ %81%97%EF%BD%9E.pdf)\n採点結果：\n有益性: 19(平均 3.8)\n話題性
+ : 16(平均 3.2)\n明瞭性: 23(平均 4.6)\n———\nTotal: 58(平均 11
+ .6)\n\n## LT4: 水冷スイッチ導入の課題と今後求められるこ
+ と\n\n発表者：\n内田 泰広(ソフトバンク株式会社)\n発表
+ 概要：\nソフトバンクではAI計算基盤を運用しており水
+ 冷サーバの導入も進めている。\n水冷サーバに合わせて
+ 水冷スイッチの導入も検討しているが、運用面で1社だ
+ けでは解決できない多くの課題があることが判明した。
+ \n本発表では幅広いエンジニアに直面した課題を早期に
+ 共有し、スイッチベンダに期待する事、業界として求め
+ られてくることについて発表し、\n水冷スイッチ導入の
+ ハードルを下げることを目標としている。\n応募資料：\
+ n[水冷スイッチ導入の課題と今後求められること](https://
+ www.janog.gr.jp/meeting/janog56/wp-content/uploads/2025/06/lt4_%E6%B0%B4%E5
+ %86%B7%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81%E5%B0%8E%E5%85%A5%E3%81%AE%E8%AA
+ %B2%E9%A1%8C%E3%81%A8%E4%BB%8A%E5%BE%8C%E6%B1%82%E3%82%81%E3%82%89%E3%82%8C
+ %E3%82%8B%E3%81%93%E3%81%A8.pdf)\n採点結果：\n有益性: 17(平均 3.4
+ )\n話題性: 19(平均 3.8)\n明瞭性: 21(平均 4.2)\n———\nTotal: 
+ 57(平均 11.4)\n\n## LT5: 構造から理解する光コネクタの扱い
+ 方 MPO編\n\n発表者：\n若宮 義志(古河電気工業株式会社)\n
+ 発表概要：\n光コネクタの説明書、みたことありますか
+ ？どうやって固定されるのか知っていますか？\n構造か
+ ら理解し自信を持って光コネクタを取り扱いましょう。
+ \nみんなでファシリティ力向上！MPOコネクタ編。\n応募
+ 資料：\n[構造から理解する光コネクタの扱い方 MPO編](htt
+ ps://www.janog.gr.jp/meeting/janog56/wp-content/uploads/2025/06/lt5_%E6%A7%
+ 8B%E9%80%A0%E3%81%8B%E3%82%89%E7%90%86%E8%A7%A3%E3%81%99%E3%82%8B%E5%85%89%
+ E3%82%B3%E3%83%8D%E3%82%AF%E3%82%BF%E3%81%AE%E6%89%B1%E3%81%84%E6%96%B9-MPO
+ %E7%B7%A8.pdf)\n採点結果：\n有益性: 24(平均 4.8)\n話題性: 20(
+ 平均 4.0)\n明瞭性: 25(平均 5.0)\n———\nTotal: 69(平均 13.8)\n
+ \n## LT6: 商用模擬NW “検証環境構築“の自動化 ～KDDIの検
+ 証環境をIIJからの出向者が改善した話～\n\n発表者：\n川
+ 瀬 拓哉(KDDI株式会社)\n発表概要：\nネットワーク検証に
+ おける試験は自動化対応で省力化が進みつつありますが
+ 、\n商用ネットワークを模擬する検証環境の構築は、商
+ 用環境の設定や負荷を元にして手動で構築するため、\n
+ 環境構築に係る工数が検証業務全体に占める割合が大き
+ くなってきました。\nそこで、KDDI社内で自動化への活用
+ が進んでいるJupyterを用いて検証環境構築を自動化しま
+ した。\nその取り組みの流れと成果を紹介します。\n応
+ 募資料：\n[商用模擬NW “検証環境構築“の自動化 ～KDDI
+ の検証環境をIIJからの出向者が改善した話～](https://www.j
+ anog.gr.jp/meeting/janog56/wp-content/uploads/2025/06/lt6_%E5%95%86%E7%94%A
+ 8%E6%A8%A1%E6%93%ACNW-%E6%A4%9C%E8%A8%BC%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%8
+ 9%E3%81%AE%E8%87%AA%E5%8B%95%E5%8C%96-%EF%BD%9EKDDI%E3%81%AE%E6%A4%9C%E8%A8
+ %BC%E7%92%B0%E5%A2%83%E3%82%92IIJ%E3%81%8B%E3%82%89%E3%81%AE%E5%87%BA%E5%90
+ %91%E8%80%85%E3%81%8C%E6%94%B9%E5%96%84%E3%81%97%E3%81%9F%E8%A9%B1%EF%BD%9E
+ .pdf)\n採点結果：\n有益性: 23(平均 4.6)\n話題性: 20(平均 4.0
+ )\n明瞭性: 21(平均 4.2)\n———\nTotal: 64(平均 12.8)\n\n# LT の
+ 応募について\n## 募集期間\n\n募集開始：2025年 6月 2日 (
+ 月) 12:00 [JST]\n募集終了：2025年 6月27日 (金) 23:59 [JST]\n\nJAN
+ OG56の通常ライトニングトーク募集は終了いたしました
+ 。たくさんのご応募ありがとうございました。\n\n採用
+ 数：最大 6枠\n採用通知：2025年 6月30日 (月)までに、応募
+ 者宛に電子メールにてお知らせします。\n\n期間中は先
+ 着順に選考を行います。採用上限に達した場合、募集は
+ 早期終了します。\n\n## 選考方法\n\n次の3つの観点につい
+ て、5名の審査員がそれぞれ15点満点で採点を行います。
+ \n\n- 有益性：技術/運用の観点で日本のネットワークオ
+ ペレータにとって有益か? (5点)\n- 話題性：ホットな話題
+ や最近の技術動向に沿っているか? (5点)\n- 明瞭性：発表
+ の内容や資料がわかりやすいか? (5点)\n\n各審査項目の平
+ 均点が採用基準を超えると、即時採用となります。\n\n##
+  審査員\n\n- 齋藤 脩愉 (JANOG56 プログラム委員)\n- 高橋 翔
+  (JANOG56 プログラム委員)\n- 鈴木 章 (JANOG56 プログラム委
+ 員)\n- 小野 碧月 (JANOG56 プログラム委員)\n- 相原 一輝 (JAN
+ OG56 企画編成委員)\n\n# 留意事項\n\n- JApanNetwork Operators’ G
+ roup Policy に基づき、営業活動が目的と思われる発表はで
+ きません。\n- JANOG行動規範 に基づき、あらゆる嫌がら
+ せや誹謗中傷、反社会的行為を含む発表はお断りします
+ 。\n- 応募内容に含まれる個人情報は、JANOG56 プログラム
+ 募集目的で使用します。\n- ご応募をいただいた時点で
+ 、JANOG における個人情報取扱ポリシー に同意いただい
+ たものとします。\n- 会場近くの宿泊施設は空室が少な
+ い模様です。応募の際は宿泊先または交通手段を確保い
+ ただくようお願いします。\n\n# よくある質問\n\nQ1. この
+ ライトニングトークはどういうものですか？\nA1. 質疑な
+ し、1人5分間でプレゼンをする一般的な LT セッションで
+ す。\n\nQ2. 他のライトニングトークにも応募できますか
+ ？\nA2. はい、同一人物が複数の LT に応募できます。た
+ だしそれぞれのテーマに沿った応募をお願いします。\n\
+ nQ3. リモートで登壇できますか？\nA3. いいえ、リモート
+ 登壇の環境を用意していません。現地へお越しの上ご登
+ 壇ください。\n\nその他、ご不明な点がございましたら m
+ eeting-56[at]janog.gr.jp までお問い合わせください。
 LOCATION:国際会議場/3F
 URL:https://www.janog.gr.jp/meeting/janog56/lt/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T072622Z
-LAST-MODIFIED:20250527T072622Z
-DTSTAMP:20250527T072622Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:b1ec5856-31c5-4ac2-8e77-bbe48c2e5392
-SUMMARY:オープンマイク🎥 - JANOG運営委員
-ATTACH:
+SUMMARY:オープンマイク📡📼 - JANOG運営委員
 CATEGORIES:大展示場1/1F
-CATEGORIES:🎥ストリーミング＆アーカイブ
+CATEGORIES:📡📼ストリーミング＆アーカイブ
 DTSTART;TZID=Asia/Tokyo:20250801T161500
 DTEND;TZID=Asia/Tokyo:20250801T170000
 DESCRIPTION:# 概要\n\n本セッションではJANOGの運営について
@@ -2353,23 +2469,21 @@ DESCRIPTION:# 概要\n\n本セッションではJANOGの運営について
  論ポイント\n\nTBA
 LOCATION:大展示場1/1F
 URL:https://www.janog.gr.jp/meeting/janog56/openmic/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20250527T072723Z
-LAST-MODIFIED:20250527T072723Z
-DTSTAMP:20250527T072723Z
+LAST-MODIFIED:20250710T073128Z
+DTSTAMP:20250710T073128Z
 UID:76ba4cc0-d731-4a09-bcef-ad5201342639
-SUMMARY:閉会宣言/次回開催予告🎥 - 川上 雄也(ソフトバン
- ク株式会社)、立松 裕將(BBIX株式会社)
-ATTACH:
+SUMMARY:閉会宣言/次回開催予告📡📼 - 川上 雄也(JANOG56実
+ 行委員長)、立松 裕將(JANOG56実行委員長)
 CATEGORIES:大展示場1/1F
-CATEGORIES:🎥ストリーミング＆アーカイブ
+CATEGORIES:📡📼ストリーミング＆アーカイブ
 DTSTART;TZID=Asia/Tokyo:20250801T170000
 DTEND;TZID=Asia/Tokyo:20250801T173000
-DESCRIPTION:
 LOCATION:大展示場1/1F
 URL:https://www.janog.gr.jp/meeting/janog56/closing/
-SEQUENCE:0
+SEQUENCE:1
 END:VEVENT
 END:VCALENDAR
