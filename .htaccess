@@ -1,0 +1,89 @@
+# Set enviroment value by user-agent, ip address
+# Proton Calendar
+SetEnvIf User-Agent "ProtonCalendar" UA=ProtonCalendar
+SetEnvIf Remote_Addr "^79\.135\.106\.|^79\.135\.107\.|^109\.224\.224\.|^176\.119\.200\.|^185\.70\.40\.|^185\.70\.41\.|^185\.70\.42\.|^185\.70\.43\.|^185\.205\.70\.|^194\.0\.147\." UA=ProtonCalendar
+
+RewriteEngine On
+# JapanHolidays, JapanHolidaysNext
+# Redirect if ICSx5, Fastmail
+RewriteCond %{HTTP_USER_AGENT} (FastmailUA|ICSx5)
+RewriteRule ^JapanHolidaysNext https://calendar.webcal.jp/one/JapanHolidaysNext_rdate.ics [R,L]
+RewriteCond %{HTTP_USER_AGENT} (FastmailUA|ICSx5)
+RewriteRule ^JapanHolidays https://calendar.webcal.jp/one/JapanHolidays_rdate.ics [R,L]
+# Redirect if MoodleBot
+RewriteCond %{HTTP_USER_AGENT} MoodleBot
+RewriteRule ^JapanHolidays https://calendar.webcal.jp/one/JapanHolidays_for_m.ics [R,L]
+# Redirect if ProtonCalendar
+RewriteCond %{ENV:UA} ^ProtonCalendar$
+RewriteRule ^JapanHolidaysNext https://calendar.webcal.jp/one/JapanHolidaysNext_for_pt_s.ics [R,L]
+RewriteCond %{ENV:UA} ^ProtonCalendar$
+RewriteRule ^JapanHolidays https://calendar.webcal.jp/one/JapanHolidays_for_pt_s.ics [R,L]
+# Redirect if WordPress
+RewriteCond %{HTTP_USER_AGENT} WordPress
+RewriteRule ^JapanHolidaysNext https://calendar.webcal.jp/one/JapanHolidaysNext_for_wp.ics [R,L]
+RewriteCond %{HTTP_USER_AGENT} WordPress
+RewriteRule ^JapanHolidays https://calendar.webcal.jp/one/JapanHolidays_for_wp.ics [R,L]
+# Redirect if Microsoft
+# JapanHolidaysNext
+RewriteCond %{HTTP_USER_AGENT} (Microsoft\ Exchange|Microsoft\ Outlook)
+RewriteCond %{TIME} >20250721000000
+RewriteCond %{TIME} <20250810235959
+RewriteRule ^JapanHolidaysNext https://calendar.webcal.jp/one/JapanHolidaysNext_for_ms/20250721to0810.ics [R,L]
+RewriteCond %{HTTP_USER_AGENT} (Microsoft\ Exchange|Microsoft\ Outlook)
+RewriteCond %{TIME} >20250811000000
+RewriteRule ^JapanHolidays https://calendar.webcal.jp/one/JapanHolidaysNext_for_ms/20250811to0914.ics [R,L]
+# JapanHolidays
+RewriteCond %{HTTP_USER_AGENT} (Microsoft\ Exchange|Microsoft\ Outlook)
+RewriteCond %{TIME} >20250721000000
+RewriteCond %{TIME} <20250721235959
+RewriteRule ^JapanHolidays https://calendar.webcal.jp/one/JapanHolidays_for_ms/20250721.ics [R,L]
+RewriteCond %{HTTP_USER_AGENT} (Microsoft\ Exchange|Microsoft\ Outlook)
+RewriteCond %{TIME} >20250722000000
+RewriteCond %{TIME} <20250722235959
+RewriteRule ^JapanHolidays https://calendar.webcal.jp/one/JapanHolidays_for_ms/20250722.ics [R,L]
+RewriteCond %{HTTP_USER_AGENT} (Microsoft\ Exchange|Microsoft\ Outlook)
+RewriteCond %{TIME} >20250723000000
+RewriteCond %{TIME} <20250723235959
+RewriteRule ^JapanHolidays https://calendar.webcal.jp/one/JapanHolidays_for_ms/20250723.ics [R,L]
+RewriteCond %{HTTP_USER_AGENT} (Microsoft\ Exchange|Microsoft\ Outlook)
+RewriteCond %{TIME} >20250724000000
+RewriteCond %{TIME} <20250724235959
+RewriteRule ^JapanHolidays https://calendar.webcal.jp/one/JapanHolidays_for_ms/20250724.ics [R,L]
+RewriteCond %{HTTP_USER_AGENT} (Microsoft\ Exchange|Microsoft\ Outlook)
+RewriteCond %{TIME} >20250725000000
+RewriteCond %{TIME} <20250808235959
+RewriteRule ^JapanHolidays https://calendar.webcal.jp/one/JapanHolidays_for_ms/20250725to0808.ics [R,L]
+RewriteCond %{HTTP_USER_AGENT} (Microsoft\ Exchange|Microsoft\ Outlook)
+RewriteCond %{TIME} >20250809000000
+RewriteCond %{TIME} <20250809235959
+RewriteRule ^JapanHolidays https://calendar.webcal.jp/one/JapanHolidays_for_ms/20250809.ics [R,L]
+RewriteCond %{HTTP_USER_AGENT} (Microsoft\ Exchange|Microsoft\ Outlook)
+RewriteCond %{TIME} >20250810000000
+RewriteCond %{TIME} <20250810235959
+RewriteRule ^JapanHolidays https://calendar.webcal.jp/one/JapanHolidays_for_ms/20250810.ics [R,L]
+RewriteCond %{HTTP_USER_AGENT} (Microsoft\ Exchange|Microsoft\ Outlook)
+RewriteCond %{TIME} >20250811000000
+RewriteCond %{TIME} <20250811235959
+RewriteRule ^JapanHolidays https://calendar.webcal.jp/one/JapanHolidays_for_ms/20250811.ics [R,L]
+RewriteCond %{HTTP_USER_AGENT} (Microsoft\ Exchange|Microsoft\ Outlook)
+RewriteCond %{TIME} >20250812000000
+RewriteCond %{TIME} <20250812235959
+RewriteRule ^JapanHolidays https://calendar.webcal.jp/one/JapanHolidays_for_ms/20250812.ics [R,L]
+RewriteCond %{HTTP_USER_AGENT} (Microsoft\ Exchange|Microsoft\ Outlook)
+RewriteCond %{TIME} >20250813000000
+RewriteRule ^JapanHolidays https://calendar.webcal.jp/one/JapanHolidays_for_ms/20250813to0915.ics [R,L]
+# JapanHolidays, JapanHolidays_c, JapanHolidaysNext, JapanHolildaysNext_c
+# Redirect if Thunderbird, Seamonkey
+RewriteCond %{HTTP_USER_AGENT} (SeaMonkey|Thunderbird)
+RewriteRule ^JapanHolidays/$ https://calendar.webcal.jp/one/JapanHolidays_rdate.ics [R,L]
+RewriteCond %{HTTP_USER_AGENT} (SeaMonkey|Thunderbird)
+RewriteRule ^JapanHolidays_c/$ https://calendar.webcal.jp/one/JapanHolidays_rdate_c.ics [R,L]
+RewriteCond %{HTTP_USER_AGENT} (SeaMonkey|Thunderbird)
+RewriteRule ^JapanHolidaysNext/$ https://calendar.webcal.jp/one/JapanHolidaysNext_rdate.ics [R,L]
+RewriteCond %{HTTP_USER_AGENT} (SeaMonkey|Thunderbird)
+RewriteRule ^JapanHolidaysNext_c/$ https://calendar.webcal.jp/one/JapanHolidaysNext_rdate_c.ics [R,L]
+# Redirect if others, Nextcloud Webcal Service
+RewriteRule ^JapanHolidays/$ https://calendar.webcal.jp/one/JapanHolidays.ics [R,L]
+RewriteRule ^JapanHolidays_c/$ https://calendar.webcal.jp/one/JapanHolidays_c.ics [R,L]
+RewriteRule ^JapanHolidaysNext/$ https://calendar.webcal.jp/one/JapanHolidaysNext.ics [R,L]
+RewriteRule ^JapanHolidaysNext_c/$ https://calendar.webcal.jp/one/JapanHolidaysNext_c.ics [R,L]
